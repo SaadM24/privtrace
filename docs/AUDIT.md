@@ -1,0 +1,18 @@
+# Prior-release and methodological audit
+We extracted the attached archive into a separate verification directory. All 72 manifest entries passed. Its original 12 tests passed. Primary independent replay covered 3,456 runs and 97,452 records, and all 576 follow-up scores agreed. We inspected the simulator, per-recipient adjudication, generator, scorer, replay and report. The attached standalone summary and ZIP-internal summary have different binary digests but identical extracted text. Both original byte streams are retained, including the complete v0.1 Git bundle in the archive. The historical coordinator key belongs only in the owner's sealed archive. We supply the committee PDF separately.
+
+The original generator stores truth, future receipt demand, seed and expected result in one dictionary. The old follow-up directly consults receipt when scheduling, and the optional model prompt states the future requirement. The primary full policy never earned utility from the restricted raw record. Scoring value and cumulative inference used trusted tags and a fixed XOR construction. The independent scorer removes code dependence but shares the task definition and authorship. Seeds change records without changing underlying programs; the synchronous clock makes the perfect temporal endpoint unsurprising. Original results remain valid for their stated scope. These properties motivate separating policy, decision-time observation and gold delivery replay.
+
+## Prior art and scope of the contribution
+| Source | What it already establishes | Relevance here |
+|---|---|---|
+| [Nissenbaum, 2004](https://digitalcommons.law.uw.edu/wlr/vol79/iss1/10/) | Context and transmission norms constrain appropriate flows. | Our role and purpose rules instantiate a simplified explicit norm. |
+| [Myers and Liskov, 1998](https://www.cs.cornell.edu/andru/papers/sp98/paper.html) | Per-principal information-flow labels and controlled declassification. | Labels and inheritance precede this work. We test incomplete claims about a resource. |
+| [W3C PROV-DM](https://www.w3.org/TR/prov-dm/) | Entities, activities and derivations represent provenance. | A route and root identify the artifact independently of the broker's declared ancestry. No PROV interoperability claim. |
+| [TG-CI / MAPLE-Bench](https://arxiv.org/abs/2610.39532) | Graph scope and accrued recipient histories change admissibility. | Closest prior work on graph privacy; our question concerns irreversible choices before demand is known. |
+| [CI-RELAY](https://aclanthology.org/2026.findings-emnlp.2421/) | Runtime mediation projects recipient-specific relays. | Reuse the conceptual boundary, compare competing online admissions inside it. |
+| [The Sum Leaks More Than Its Parts](https://arxiv.org/abs/2509.14284) | Individually innocuous responses collectively support inference. | Measure only the known two-share reconstruction rule. |
+| [Revoked but Still Authoritative](https://arxiv.org/abs/2609.08258) | Stale information can still affect actions after a memory update. | Distinguish authoritative withdrawal from when the gateway observes it. |
+| [Kleinberg and Weinberg, 2012](https://arxiv.org/abs/1201.4764) | Online decisions can be benchmarked against a foresighted selector. | Offline comparison and threshold policies are established. Their distributional guarantees do not transfer. |
+
+The experimental contribution is a paired test of visible cues and trustworthy present-time evidence against an offline feasible ceiling. We do not claim a new privacy formalism, priority for online resource allocation, or reproduction of these publications.

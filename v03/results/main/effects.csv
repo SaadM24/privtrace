@@ -1,0 +1,5 @@
+h,metric,first,second,rd,lower,upper
+H1,safe,clean/eligible,clean/greedy,0.3229166666666667,0.25,0.37847222222222227
+H2,safe,clean/eligible,clean/minimum,0.07291666666666666,0.034722222222222224,0.125
+H3,exposure,mixed/checked,mixed/eligible,-0.736111111111111,-0.7986111111111112,-0.6770833333333334
+H4,exposure,bad_proof/checked,mixed/checked,0.17708333333333334,0.14583333333333334,0.20486111111111116

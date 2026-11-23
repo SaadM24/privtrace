@@ -1,0 +1,29 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+# Temporary reproductions, model weights and local reviewer evidence
+replay/
+replay-*/
+regenerated-papers/
+pilot-private.jsonl
+*.gguf
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+# Owner-only historical archives, bundles, private review artifacts
+archive/
+*.bundle
+*.zip
+v03/results/coordinator.jsonl
+v03/results/*key*
+# Large local logs or derived data
+.DS_Store
+Thumbs.db

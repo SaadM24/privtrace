@@ -1,0 +1,108 @@
+{"split": "development", "style": 0, "label": "north", "text": "The dossier places the site in the north.", "meaning": 3}
+{"split": "development", "style": 0, "label": "north", "text": "The signed review locates it in the north.", "meaning": 3}
+{"split": "development", "style": 0, "label": "north", "text": "Our summary places this job in the north.", "meaning": 3}
+{"split": "development", "style": 0, "label": "south", "text": "The dossier places the site in the south.", "meaning": 12}
+{"split": "development", "style": 0, "label": "south", "text": "The signed review locates it in the south.", "meaning": 12}
+{"split": "development", "style": 0, "label": "south", "text": "Our summary places this job in the south.", "meaning": 12}
+{"split": "development", "style": 0, "label": "coast", "text": "The dossier places the site on the coast.", "meaning": 5}
+{"split": "development", "style": 0, "label": "coast", "text": "The signed review locates it on the coast.", "meaning": 5}
+{"split": "development", "style": 0, "label": "coast", "text": "Our summary places this job on the coast.", "meaning": 5}
+{"split": "development", "style": 0, "label": "inland", "text": "The dossier places the site inland.", "meaning": 10}
+{"split": "development", "style": 0, "label": "inland", "text": "The signed review locates it inland.", "meaning": 10}
+{"split": "development", "style": 0, "label": "inland", "text": "Our summary places this job inland.", "meaning": 10}
+{"split": "development", "style": 0, "label": "neutral", "text": "The form is ready.", "meaning": 15}
+{"split": "development", "style": 0, "label": "Alder", "text": "The site is Alder.", "meaning": 1}
+{"split": "development", "style": 0, "label": "Birch", "text": "The site is Birch.", "meaning": 2}
+{"split": "development", "style": 0, "label": "Cedar", "text": "The site is Cedar.", "meaning": 4}
+{"split": "development", "style": 0, "label": "Dune", "text": "The site is Dune.", "meaning": 8}
+{"split": "development", "style": 0, "label": "uncertain", "text": "They said it might be the upper one.", "meaning": null}
+{"split": "development", "style": 1, "label": "north", "text": "The dossier places the site in the northern district.", "meaning": 3}
+{"split": "development", "style": 1, "label": "north", "text": "The signed review locates it in the northern district.", "meaning": 3}
+{"split": "development", "style": 1, "label": "north", "text": "Our summary places this job in the northern district.", "meaning": 3}
+{"split": "development", "style": 1, "label": "south", "text": "The dossier places the site in the southern district.", "meaning": 12}
+{"split": "development", "style": 1, "label": "south", "text": "The signed review locates it in the southern district.", "meaning": 12}
+{"split": "development", "style": 1, "label": "south", "text": "Our summary places this job in the southern district.", "meaning": 12}
+{"split": "development", "style": 1, "label": "coast", "text": "The dossier places the site in the coastal zone.", "meaning": 5}
+{"split": "development", "style": 1, "label": "coast", "text": "The signed review locates it in the coastal zone.", "meaning": 5}
+{"split": "development", "style": 1, "label": "coast", "text": "Our summary places this job in the coastal zone.", "meaning": 5}
+{"split": "development", "style": 1, "label": "inland", "text": "The dossier places the site in the interior.", "meaning": 10}
+{"split": "development", "style": 1, "label": "inland", "text": "The signed review locates it in the interior.", "meaning": 10}
+{"split": "development", "style": 1, "label": "inland", "text": "Our summary places this job in the interior.", "meaning": 10}
+{"split": "development", "style": 1, "label": "neutral", "text": "The receipt was signed.", "meaning": 15}
+{"split": "development", "style": 1, "label": "Alder", "text": "The record names Alder.", "meaning": 1}
+{"split": "development", "style": 1, "label": "Birch", "text": "The record names Birch.", "meaning": 2}
+{"split": "development", "style": 1, "label": "Cedar", "text": "The record names Cedar.", "meaning": 4}
+{"split": "development", "style": 1, "label": "Dune", "text": "The record names Dune.", "meaning": 8}
+{"split": "development", "style": 1, "label": "uncertain", "text": "It is near their usual office.", "meaning": null}
+{"split": "validation", "style": 2, "label": "north", "text": "The dossier places the site on the polar side.", "meaning": 3}
+{"split": "validation", "style": 2, "label": "north", "text": "The signed review locates it on the polar side.", "meaning": 3}
+{"split": "validation", "style": 2, "label": "north", "text": "Our summary places this job on the polar side.", "meaning": 3}
+{"split": "validation", "style": 2, "label": "south", "text": "The dossier places the site on the equatorward side.", "meaning": 12}
+{"split": "validation", "style": 2, "label": "south", "text": "The signed review locates it on the equatorward side.", "meaning": 12}
+{"split": "validation", "style": 2, "label": "south", "text": "Our summary places this job on the equatorward side.", "meaning": 12}
+{"split": "validation", "style": 2, "label": "coast", "text": "The dossier places the site along the shoreline.", "meaning": 5}
+{"split": "validation", "style": 2, "label": "coast", "text": "The signed review locates it along the shoreline.", "meaning": 5}
+{"split": "validation", "style": 2, "label": "coast", "text": "Our summary places this job along the shoreline.", "meaning": 5}
+{"split": "validation", "style": 2, "label": "inland", "text": "The dossier places the site away from the shoreline.", "meaning": 10}
+{"split": "validation", "style": 2, "label": "inland", "text": "The signed review locates it away from the shoreline.", "meaning": 10}
+{"split": "validation", "style": 2, "label": "inland", "text": "Our summary places this job away from the shoreline.", "meaning": 10}
+{"split": "validation", "style": 2, "label": "neutral", "text": "The map key lists north and south.", "meaning": 15}
+{"split": "validation", "style": 2, "label": "Alder", "text": "The appointment is at Alder.", "meaning": 1}
+{"split": "validation", "style": 2, "label": "Birch", "text": "The appointment is at Birch.", "meaning": 2}
+{"split": "validation", "style": 2, "label": "Cedar", "text": "The appointment is at Cedar.", "meaning": 4}
+{"split": "validation", "style": 2, "label": "Dune", "text": "The appointment is at Dune.", "meaning": 8}
+{"split": "validation", "style": 2, "label": "uncertain", "text": "The last site may apply here.", "meaning": null}
+{"split": "test", "style": 3, "label": "north", "text": "The dossier places the site above the dividing line.", "meaning": 3}
+{"split": "test", "style": 3, "label": "north", "text": "The signed review locates it above the dividing line.", "meaning": 3}
+{"split": "test", "style": 3, "label": "north", "text": "Our summary places this job above the dividing line.", "meaning": 3}
+{"split": "test", "style": 3, "label": "south", "text": "The dossier places the site below the dividing line.", "meaning": 12}
+{"split": "test", "style": 3, "label": "south", "text": "The signed review locates it below the dividing line.", "meaning": 12}
+{"split": "test", "style": 3, "label": "south", "text": "Our summary places this job below the dividing line.", "meaning": 12}
+{"split": "test", "style": 3, "label": "coast", "text": "The dossier places the site at the water-facing edge.", "meaning": 5}
+{"split": "test", "style": 3, "label": "coast", "text": "The signed review locates it at the water-facing edge.", "meaning": 5}
+{"split": "test", "style": 3, "label": "coast", "text": "Our summary places this job at the water-facing edge.", "meaning": 5}
+{"split": "test", "style": 3, "label": "inland", "text": "The dossier places the site on the landlocked side.", "meaning": 10}
+{"split": "test", "style": 3, "label": "inland", "text": "The signed review locates it on the landlocked side.", "meaning": 10}
+{"split": "test", "style": 3, "label": "inland", "text": "Our summary places this job on the landlocked side.", "meaning": 10}
+{"split": "test", "style": 3, "label": "neutral", "text": "Training uses Alder as an example.", "meaning": 15}
+{"split": "test", "style": 3, "label": "Alder", "text": "This case was allocated to Alder.", "meaning": 1}
+{"split": "test", "style": 3, "label": "Birch", "text": "This case was allocated to Birch.", "meaning": 2}
+{"split": "test", "style": 3, "label": "Cedar", "text": "This case was allocated to Cedar.", "meaning": 4}
+{"split": "test", "style": 3, "label": "Dune", "text": "This case was allocated to Dune.", "meaning": 8}
+{"split": "test", "style": 3, "label": "uncertain", "text": "They said it might be the upper one.", "meaning": null}
+{"split": "test", "style": 4, "label": "north", "text": "The dossier places the site outside the southern district.", "meaning": 3}
+{"split": "test", "style": 4, "label": "north", "text": "The signed review locates it outside the southern district.", "meaning": 3}
+{"split": "test", "style": 4, "label": "north", "text": "Our summary places this job outside the southern district.", "meaning": 3}
+{"split": "test", "style": 4, "label": "south", "text": "The dossier places the site outside the northern district.", "meaning": 12}
+{"split": "test", "style": 4, "label": "south", "text": "The signed review locates it outside the northern district.", "meaning": 12}
+{"split": "test", "style": 4, "label": "south", "text": "Our summary places this job outside the northern district.", "meaning": 12}
+{"split": "test", "style": 4, "label": "coast", "text": "The dossier places the site outside the inland area.", "meaning": 5}
+{"split": "test", "style": 4, "label": "coast", "text": "The signed review locates it outside the inland area.", "meaning": 5}
+{"split": "test", "style": 4, "label": "coast", "text": "Our summary places this job outside the inland area.", "meaning": 5}
+{"split": "test", "style": 4, "label": "inland", "text": "The dossier places the site outside the coastal area.", "meaning": 10}
+{"split": "test", "style": 4, "label": "inland", "text": "The signed review locates it outside the coastal area.", "meaning": 10}
+{"split": "test", "style": 4, "label": "inland", "text": "Our summary places this job outside the coastal area.", "meaning": 10}
+{"split": "test", "style": 4, "label": "neutral", "text": "The coast label belongs to a different case.", "meaning": 15}
+{"split": "test", "style": 4, "label": "Alder", "text": "The memo identifies Alder.", "meaning": 1}
+{"split": "test", "style": 4, "label": "Birch", "text": "The memo identifies Birch.", "meaning": 2}
+{"split": "test", "style": 4, "label": "Cedar", "text": "The memo identifies Cedar.", "meaning": 4}
+{"split": "test", "style": 4, "label": "Dune", "text": "The memo identifies Dune.", "meaning": 8}
+{"split": "test", "style": 4, "label": "uncertain", "text": "It is near their usual office.", "meaning": null}
+{"split": "test", "style": 5, "label": "north", "text": "The dossier places the site in the upper half.", "meaning": 3}
+{"split": "test", "style": 5, "label": "north", "text": "The signed review locates it in the upper half.", "meaning": 3}
+{"split": "test", "style": 5, "label": "north", "text": "Our summary places this job in the upper half.", "meaning": 3}
+{"split": "test", "style": 5, "label": "south", "text": "The dossier places the site in the lower half.", "meaning": 12}
+{"split": "test", "style": 5, "label": "south", "text": "The signed review locates it in the lower half.", "meaning": 12}
+{"split": "test", "style": 5, "label": "south", "text": "Our summary places this job in the lower half.", "meaning": 12}
+{"split": "test", "style": 5, "label": "coast", "text": "The dossier places the site by the sea.", "meaning": 5}
+{"split": "test", "style": 5, "label": "coast", "text": "The signed review locates it by the sea.", "meaning": 5}
+{"split": "test", "style": 5, "label": "coast", "text": "Our summary places this job by the sea.", "meaning": 5}
+{"split": "test", "style": 5, "label": "inland", "text": "The dossier places the site far from the sea.", "meaning": 10}
+{"split": "test", "style": 5, "label": "inland", "text": "The signed review locates it far from the sea.", "meaning": 10}
+{"split": "test", "style": 5, "label": "inland", "text": "Our summary places this job far from the sea.", "meaning": 10}
+{"split": "test", "style": 5, "label": "neutral", "text": "Birch is quoted from the blank template.", "meaning": 15}
+{"split": "test", "style": 5, "label": "Alder", "text": "Its assigned site is Alder.", "meaning": 1}
+{"split": "test", "style": 5, "label": "Birch", "text": "Its assigned site is Birch.", "meaning": 2}
+{"split": "test", "style": 5, "label": "Cedar", "text": "Its assigned site is Cedar.", "meaning": 4}
+{"split": "test", "style": 5, "label": "Dune", "text": "Its assigned site is Dune.", "meaning": 8}
+{"split": "test", "style": 5, "label": "uncertain", "text": "The last site may apply here.", "meaning": null}

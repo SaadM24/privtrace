@@ -1,0 +1,7 @@
+scikit-learn==1.8.0
+numpy==2.3.5
+matplotlib==3.10.8
+reportlab==4.4.9
+setuptools==84.2.1
+wheel==0.48.0
+scipy==1.17.0

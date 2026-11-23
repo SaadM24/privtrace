@@ -1,0 +1,1 @@
+{"development":[311,313,317],"validation":[331,337],"test":[347,349,353,359,367,373,379,383,389,397,401,409],"jobs_per_seed":24,"methods":["open","greedy","minimum","cue","eligible","checked","no_history","text_gate"],"conditions":["clean","lag","history","lineage","offline","mixed","bad_proof"],"bootstrap_seed":303}

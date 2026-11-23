@@ -1,0 +1,1 @@
+{"blocks":[229,233,239,241,251,257,263,269,271,277],"period_size":32,"window":16,"prior_strength":2,"methods":["frozen","recent","greedy","reserve"]}

@@ -1,0 +1,1261 @@
+split,style,label,text,meaning,prior,method,pred_mask,gold_flag,pred_flag
+development,0,north,The dossier places the site in the north.,3,15,literal,15,False,False
+development,0,north,The dossier places the site in the north.,3,15,dictionary,3,False,False
+development,0,north,The dossier places the site in the north.,3,15,char_model,3,False,False
+development,0,north,The dossier places the site in the north.,3,3,literal,15,False,False
+development,0,north,The dossier places the site in the north.,3,3,dictionary,3,False,False
+development,0,north,The dossier places the site in the north.,3,3,char_model,3,False,False
+development,0,north,The dossier places the site in the north.,3,5,literal,15,True,False
+development,0,north,The dossier places the site in the north.,3,5,dictionary,3,True,True
+development,0,north,The dossier places the site in the north.,3,5,char_model,3,True,True
+development,0,north,The dossier places the site in the north.,3,10,literal,15,True,False
+development,0,north,The dossier places the site in the north.,3,10,dictionary,3,True,True
+development,0,north,The dossier places the site in the north.,3,10,char_model,3,True,True
+development,0,north,The signed review locates it in the north.,3,15,literal,15,False,False
+development,0,north,The signed review locates it in the north.,3,15,dictionary,3,False,False
+development,0,north,The signed review locates it in the north.,3,15,char_model,3,False,False
+development,0,north,The signed review locates it in the north.,3,3,literal,15,False,False
+development,0,north,The signed review locates it in the north.,3,3,dictionary,3,False,False
+development,0,north,The signed review locates it in the north.,3,3,char_model,3,False,False
+development,0,north,The signed review locates it in the north.,3,5,literal,15,True,False
+development,0,north,The signed review locates it in the north.,3,5,dictionary,3,True,True
+development,0,north,The signed review locates it in the north.,3,5,char_model,3,True,True
+development,0,north,The signed review locates it in the north.,3,10,literal,15,True,False
+development,0,north,The signed review locates it in the north.,3,10,dictionary,3,True,True
+development,0,north,The signed review locates it in the north.,3,10,char_model,3,True,True
+development,0,north,Our summary places this job in the north.,3,15,literal,15,False,False
+development,0,north,Our summary places this job in the north.,3,15,dictionary,3,False,False
+development,0,north,Our summary places this job in the north.,3,15,char_model,3,False,False
+development,0,north,Our summary places this job in the north.,3,3,literal,15,False,False
+development,0,north,Our summary places this job in the north.,3,3,dictionary,3,False,False
+development,0,north,Our summary places this job in the north.,3,3,char_model,3,False,False
+development,0,north,Our summary places this job in the north.,3,5,literal,15,True,False
+development,0,north,Our summary places this job in the north.,3,5,dictionary,3,True,True
+development,0,north,Our summary places this job in the north.,3,5,char_model,3,True,True
+development,0,north,Our summary places this job in the north.,3,10,literal,15,True,False
+development,0,north,Our summary places this job in the north.,3,10,dictionary,3,True,True
+development,0,north,Our summary places this job in the north.,3,10,char_model,3,True,True
+development,0,south,The dossier places the site in the south.,12,15,literal,15,False,False
+development,0,south,The dossier places the site in the south.,12,15,dictionary,12,False,False
+development,0,south,The dossier places the site in the south.,12,15,char_model,12,False,False
+development,0,south,The dossier places the site in the south.,12,12,literal,15,False,False
+development,0,south,The dossier places the site in the south.,12,12,dictionary,12,False,False
+development,0,south,The dossier places the site in the south.,12,12,char_model,12,False,False
+development,0,south,The dossier places the site in the south.,12,5,literal,15,True,False
+development,0,south,The dossier places the site in the south.,12,5,dictionary,12,True,True
+development,0,south,The dossier places the site in the south.,12,5,char_model,12,True,True
+development,0,south,The dossier places the site in the south.,12,10,literal,15,True,False
+development,0,south,The dossier places the site in the south.,12,10,dictionary,12,True,True
+development,0,south,The dossier places the site in the south.,12,10,char_model,12,True,True
+development,0,south,The signed review locates it in the south.,12,15,literal,15,False,False
+development,0,south,The signed review locates it in the south.,12,15,dictionary,12,False,False
+development,0,south,The signed review locates it in the south.,12,15,char_model,12,False,False
+development,0,south,The signed review locates it in the south.,12,12,literal,15,False,False
+development,0,south,The signed review locates it in the south.,12,12,dictionary,12,False,False
+development,0,south,The signed review locates it in the south.,12,12,char_model,12,False,False
+development,0,south,The signed review locates it in the south.,12,5,literal,15,True,False
+development,0,south,The signed review locates it in the south.,12,5,dictionary,12,True,True
+development,0,south,The signed review locates it in the south.,12,5,char_model,12,True,True
+development,0,south,The signed review locates it in the south.,12,10,literal,15,True,False
+development,0,south,The signed review locates it in the south.,12,10,dictionary,12,True,True
+development,0,south,The signed review locates it in the south.,12,10,char_model,12,True,True
+development,0,south,Our summary places this job in the south.,12,15,literal,15,False,False
+development,0,south,Our summary places this job in the south.,12,15,dictionary,12,False,False
+development,0,south,Our summary places this job in the south.,12,15,char_model,12,False,False
+development,0,south,Our summary places this job in the south.,12,12,literal,15,False,False
+development,0,south,Our summary places this job in the south.,12,12,dictionary,12,False,False
+development,0,south,Our summary places this job in the south.,12,12,char_model,12,False,False
+development,0,south,Our summary places this job in the south.,12,5,literal,15,True,False
+development,0,south,Our summary places this job in the south.,12,5,dictionary,12,True,True
+development,0,south,Our summary places this job in the south.,12,5,char_model,12,True,True
+development,0,south,Our summary places this job in the south.,12,10,literal,15,True,False
+development,0,south,Our summary places this job in the south.,12,10,dictionary,12,True,True
+development,0,south,Our summary places this job in the south.,12,10,char_model,12,True,True
+development,0,coast,The dossier places the site on the coast.,5,15,literal,15,False,False
+development,0,coast,The dossier places the site on the coast.,5,15,dictionary,5,False,False
+development,0,coast,The dossier places the site on the coast.,5,15,char_model,5,False,False
+development,0,coast,The dossier places the site on the coast.,5,3,literal,15,True,False
+development,0,coast,The dossier places the site on the coast.,5,3,dictionary,5,True,True
+development,0,coast,The dossier places the site on the coast.,5,3,char_model,5,True,True
+development,0,coast,The dossier places the site on the coast.,5,12,literal,15,True,False
+development,0,coast,The dossier places the site on the coast.,5,12,dictionary,5,True,True
+development,0,coast,The dossier places the site on the coast.,5,12,char_model,5,True,True
+development,0,coast,The dossier places the site on the coast.,5,5,literal,15,False,False
+development,0,coast,The dossier places the site on the coast.,5,5,dictionary,5,False,False
+development,0,coast,The dossier places the site on the coast.,5,5,char_model,5,False,False
+development,0,coast,The signed review locates it on the coast.,5,15,literal,15,False,False
+development,0,coast,The signed review locates it on the coast.,5,15,dictionary,5,False,False
+development,0,coast,The signed review locates it on the coast.,5,15,char_model,5,False,False
+development,0,coast,The signed review locates it on the coast.,5,3,literal,15,True,False
+development,0,coast,The signed review locates it on the coast.,5,3,dictionary,5,True,True
+development,0,coast,The signed review locates it on the coast.,5,3,char_model,5,True,True
+development,0,coast,The signed review locates it on the coast.,5,12,literal,15,True,False
+development,0,coast,The signed review locates it on the coast.,5,12,dictionary,5,True,True
+development,0,coast,The signed review locates it on the coast.,5,12,char_model,5,True,True
+development,0,coast,The signed review locates it on the coast.,5,5,literal,15,False,False
+development,0,coast,The signed review locates it on the coast.,5,5,dictionary,5,False,False
+development,0,coast,The signed review locates it on the coast.,5,5,char_model,5,False,False
+development,0,coast,Our summary places this job on the coast.,5,15,literal,15,False,False
+development,0,coast,Our summary places this job on the coast.,5,15,dictionary,5,False,False
+development,0,coast,Our summary places this job on the coast.,5,15,char_model,5,False,False
+development,0,coast,Our summary places this job on the coast.,5,3,literal,15,True,False
+development,0,coast,Our summary places this job on the coast.,5,3,dictionary,5,True,True
+development,0,coast,Our summary places this job on the coast.,5,3,char_model,5,True,True
+development,0,coast,Our summary places this job on the coast.,5,12,literal,15,True,False
+development,0,coast,Our summary places this job on the coast.,5,12,dictionary,5,True,True
+development,0,coast,Our summary places this job on the coast.,5,12,char_model,5,True,True
+development,0,coast,Our summary places this job on the coast.,5,5,literal,15,False,False
+development,0,coast,Our summary places this job on the coast.,5,5,dictionary,5,False,False
+development,0,coast,Our summary places this job on the coast.,5,5,char_model,5,False,False
+development,0,inland,The dossier places the site inland.,10,15,literal,15,False,False
+development,0,inland,The dossier places the site inland.,10,15,dictionary,10,False,False
+development,0,inland,The dossier places the site inland.,10,15,char_model,10,False,False
+development,0,inland,The dossier places the site inland.,10,3,literal,15,True,False
+development,0,inland,The dossier places the site inland.,10,3,dictionary,10,True,True
+development,0,inland,The dossier places the site inland.,10,3,char_model,10,True,True
+development,0,inland,The dossier places the site inland.,10,12,literal,15,True,False
+development,0,inland,The dossier places the site inland.,10,12,dictionary,10,True,True
+development,0,inland,The dossier places the site inland.,10,12,char_model,10,True,True
+development,0,inland,The dossier places the site inland.,10,10,literal,15,False,False
+development,0,inland,The dossier places the site inland.,10,10,dictionary,10,False,False
+development,0,inland,The dossier places the site inland.,10,10,char_model,10,False,False
+development,0,inland,The signed review locates it inland.,10,15,literal,15,False,False
+development,0,inland,The signed review locates it inland.,10,15,dictionary,10,False,False
+development,0,inland,The signed review locates it inland.,10,15,char_model,10,False,False
+development,0,inland,The signed review locates it inland.,10,3,literal,15,True,False
+development,0,inland,The signed review locates it inland.,10,3,dictionary,10,True,True
+development,0,inland,The signed review locates it inland.,10,3,char_model,10,True,True
+development,0,inland,The signed review locates it inland.,10,12,literal,15,True,False
+development,0,inland,The signed review locates it inland.,10,12,dictionary,10,True,True
+development,0,inland,The signed review locates it inland.,10,12,char_model,10,True,True
+development,0,inland,The signed review locates it inland.,10,10,literal,15,False,False
+development,0,inland,The signed review locates it inland.,10,10,dictionary,10,False,False
+development,0,inland,The signed review locates it inland.,10,10,char_model,10,False,False
+development,0,inland,Our summary places this job inland.,10,15,literal,15,False,False
+development,0,inland,Our summary places this job inland.,10,15,dictionary,10,False,False
+development,0,inland,Our summary places this job inland.,10,15,char_model,10,False,False
+development,0,inland,Our summary places this job inland.,10,3,literal,15,True,False
+development,0,inland,Our summary places this job inland.,10,3,dictionary,10,True,True
+development,0,inland,Our summary places this job inland.,10,3,char_model,10,True,True
+development,0,inland,Our summary places this job inland.,10,12,literal,15,True,False
+development,0,inland,Our summary places this job inland.,10,12,dictionary,10,True,True
+development,0,inland,Our summary places this job inland.,10,12,char_model,10,True,True
+development,0,inland,Our summary places this job inland.,10,10,literal,15,False,False
+development,0,inland,Our summary places this job inland.,10,10,dictionary,10,False,False
+development,0,inland,Our summary places this job inland.,10,10,char_model,10,False,False
+development,0,neutral,The form is ready.,15,15,literal,15,False,False
+development,0,neutral,The form is ready.,15,15,dictionary,15,False,False
+development,0,neutral,The form is ready.,15,15,char_model,15,False,False
+development,0,neutral,The form is ready.,15,3,literal,15,False,False
+development,0,neutral,The form is ready.,15,3,dictionary,15,False,False
+development,0,neutral,The form is ready.,15,3,char_model,15,False,False
+development,0,neutral,The form is ready.,15,12,literal,15,False,False
+development,0,neutral,The form is ready.,15,12,dictionary,15,False,False
+development,0,neutral,The form is ready.,15,12,char_model,15,False,False
+development,0,neutral,The form is ready.,15,5,literal,15,False,False
+development,0,neutral,The form is ready.,15,5,dictionary,15,False,False
+development,0,neutral,The form is ready.,15,5,char_model,15,False,False
+development,0,neutral,The form is ready.,15,10,literal,15,False,False
+development,0,neutral,The form is ready.,15,10,dictionary,15,False,False
+development,0,neutral,The form is ready.,15,10,char_model,15,False,False
+development,0,Alder,The site is Alder.,1,15,literal,1,True,True
+development,0,Alder,The site is Alder.,1,15,dictionary,1,True,True
+development,0,Alder,The site is Alder.,1,15,char_model,1,True,True
+development,0,Alder,The site is Alder.,1,3,literal,1,True,True
+development,0,Alder,The site is Alder.,1,3,dictionary,1,True,True
+development,0,Alder,The site is Alder.,1,3,char_model,1,True,True
+development,0,Alder,The site is Alder.,1,5,literal,1,True,True
+development,0,Alder,The site is Alder.,1,5,dictionary,1,True,True
+development,0,Alder,The site is Alder.,1,5,char_model,1,True,True
+development,0,Birch,The site is Birch.,2,15,literal,2,True,True
+development,0,Birch,The site is Birch.,2,15,dictionary,2,True,True
+development,0,Birch,The site is Birch.,2,15,char_model,2,True,True
+development,0,Birch,The site is Birch.,2,3,literal,2,True,True
+development,0,Birch,The site is Birch.,2,3,dictionary,2,True,True
+development,0,Birch,The site is Birch.,2,3,char_model,2,True,True
+development,0,Birch,The site is Birch.,2,10,literal,2,True,True
+development,0,Birch,The site is Birch.,2,10,dictionary,2,True,True
+development,0,Birch,The site is Birch.,2,10,char_model,2,True,True
+development,0,Cedar,The site is Cedar.,4,15,literal,4,True,True
+development,0,Cedar,The site is Cedar.,4,15,dictionary,4,True,True
+development,0,Cedar,The site is Cedar.,4,15,char_model,4,True,True
+development,0,Cedar,The site is Cedar.,4,12,literal,4,True,True
+development,0,Cedar,The site is Cedar.,4,12,dictionary,4,True,True
+development,0,Cedar,The site is Cedar.,4,12,char_model,4,True,True
+development,0,Cedar,The site is Cedar.,4,5,literal,4,True,True
+development,0,Cedar,The site is Cedar.,4,5,dictionary,4,True,True
+development,0,Cedar,The site is Cedar.,4,5,char_model,4,True,True
+development,0,Dune,The site is Dune.,8,15,literal,8,True,True
+development,0,Dune,The site is Dune.,8,15,dictionary,8,True,True
+development,0,Dune,The site is Dune.,8,15,char_model,8,True,True
+development,0,Dune,The site is Dune.,8,12,literal,8,True,True
+development,0,Dune,The site is Dune.,8,12,dictionary,8,True,True
+development,0,Dune,The site is Dune.,8,12,char_model,8,True,True
+development,0,Dune,The site is Dune.,8,10,literal,8,True,True
+development,0,Dune,The site is Dune.,8,10,dictionary,8,True,True
+development,0,Dune,The site is Dune.,8,10,char_model,8,True,True
+development,0,uncertain,They said it might be the upper one.,,15,literal,15,,False
+development,0,uncertain,They said it might be the upper one.,,15,dictionary,,,
+development,0,uncertain,They said it might be the upper one.,,15,char_model,5,,False
+development,0,uncertain,They said it might be the upper one.,,3,literal,15,,False
+development,0,uncertain,They said it might be the upper one.,,3,dictionary,,,
+development,0,uncertain,They said it might be the upper one.,,3,char_model,5,,True
+development,0,uncertain,They said it might be the upper one.,,12,literal,15,,False
+development,0,uncertain,They said it might be the upper one.,,12,dictionary,,,
+development,0,uncertain,They said it might be the upper one.,,12,char_model,5,,True
+development,0,uncertain,They said it might be the upper one.,,5,literal,15,,False
+development,0,uncertain,They said it might be the upper one.,,5,dictionary,,,
+development,0,uncertain,They said it might be the upper one.,,5,char_model,5,,False
+development,0,uncertain,They said it might be the upper one.,,10,literal,15,,False
+development,0,uncertain,They said it might be the upper one.,,10,dictionary,,,
+development,0,uncertain,They said it might be the upper one.,,10,char_model,5,,
+development,1,north,The dossier places the site in the northern district.,3,15,literal,15,False,False
+development,1,north,The dossier places the site in the northern district.,3,15,dictionary,3,False,False
+development,1,north,The dossier places the site in the northern district.,3,15,char_model,3,False,False
+development,1,north,The dossier places the site in the northern district.,3,3,literal,15,False,False
+development,1,north,The dossier places the site in the northern district.,3,3,dictionary,3,False,False
+development,1,north,The dossier places the site in the northern district.,3,3,char_model,3,False,False
+development,1,north,The dossier places the site in the northern district.,3,5,literal,15,True,False
+development,1,north,The dossier places the site in the northern district.,3,5,dictionary,3,True,True
+development,1,north,The dossier places the site in the northern district.,3,5,char_model,3,True,True
+development,1,north,The dossier places the site in the northern district.,3,10,literal,15,True,False
+development,1,north,The dossier places the site in the northern district.,3,10,dictionary,3,True,True
+development,1,north,The dossier places the site in the northern district.,3,10,char_model,3,True,True
+development,1,north,The signed review locates it in the northern district.,3,15,literal,15,False,False
+development,1,north,The signed review locates it in the northern district.,3,15,dictionary,3,False,False
+development,1,north,The signed review locates it in the northern district.,3,15,char_model,3,False,False
+development,1,north,The signed review locates it in the northern district.,3,3,literal,15,False,False
+development,1,north,The signed review locates it in the northern district.,3,3,dictionary,3,False,False
+development,1,north,The signed review locates it in the northern district.,3,3,char_model,3,False,False
+development,1,north,The signed review locates it in the northern district.,3,5,literal,15,True,False
+development,1,north,The signed review locates it in the northern district.,3,5,dictionary,3,True,True
+development,1,north,The signed review locates it in the northern district.,3,5,char_model,3,True,True
+development,1,north,The signed review locates it in the northern district.,3,10,literal,15,True,False
+development,1,north,The signed review locates it in the northern district.,3,10,dictionary,3,True,True
+development,1,north,The signed review locates it in the northern district.,3,10,char_model,3,True,True
+development,1,north,Our summary places this job in the northern district.,3,15,literal,15,False,False
+development,1,north,Our summary places this job in the northern district.,3,15,dictionary,3,False,False
+development,1,north,Our summary places this job in the northern district.,3,15,char_model,3,False,False
+development,1,north,Our summary places this job in the northern district.,3,3,literal,15,False,False
+development,1,north,Our summary places this job in the northern district.,3,3,dictionary,3,False,False
+development,1,north,Our summary places this job in the northern district.,3,3,char_model,3,False,False
+development,1,north,Our summary places this job in the northern district.,3,5,literal,15,True,False
+development,1,north,Our summary places this job in the northern district.,3,5,dictionary,3,True,True
+development,1,north,Our summary places this job in the northern district.,3,5,char_model,3,True,True
+development,1,north,Our summary places this job in the northern district.,3,10,literal,15,True,False
+development,1,north,Our summary places this job in the northern district.,3,10,dictionary,3,True,True
+development,1,north,Our summary places this job in the northern district.,3,10,char_model,3,True,True
+development,1,south,The dossier places the site in the southern district.,12,15,literal,15,False,False
+development,1,south,The dossier places the site in the southern district.,12,15,dictionary,12,False,False
+development,1,south,The dossier places the site in the southern district.,12,15,char_model,12,False,False
+development,1,south,The dossier places the site in the southern district.,12,12,literal,15,False,False
+development,1,south,The dossier places the site in the southern district.,12,12,dictionary,12,False,False
+development,1,south,The dossier places the site in the southern district.,12,12,char_model,12,False,False
+development,1,south,The dossier places the site in the southern district.,12,5,literal,15,True,False
+development,1,south,The dossier places the site in the southern district.,12,5,dictionary,12,True,True
+development,1,south,The dossier places the site in the southern district.,12,5,char_model,12,True,True
+development,1,south,The dossier places the site in the southern district.,12,10,literal,15,True,False
+development,1,south,The dossier places the site in the southern district.,12,10,dictionary,12,True,True
+development,1,south,The dossier places the site in the southern district.,12,10,char_model,12,True,True
+development,1,south,The signed review locates it in the southern district.,12,15,literal,15,False,False
+development,1,south,The signed review locates it in the southern district.,12,15,dictionary,12,False,False
+development,1,south,The signed review locates it in the southern district.,12,15,char_model,12,False,False
+development,1,south,The signed review locates it in the southern district.,12,12,literal,15,False,False
+development,1,south,The signed review locates it in the southern district.,12,12,dictionary,12,False,False
+development,1,south,The signed review locates it in the southern district.,12,12,char_model,12,False,False
+development,1,south,The signed review locates it in the southern district.,12,5,literal,15,True,False
+development,1,south,The signed review locates it in the southern district.,12,5,dictionary,12,True,True
+development,1,south,The signed review locates it in the southern district.,12,5,char_model,12,True,True
+development,1,south,The signed review locates it in the southern district.,12,10,literal,15,True,False
+development,1,south,The signed review locates it in the southern district.,12,10,dictionary,12,True,True
+development,1,south,The signed review locates it in the southern district.,12,10,char_model,12,True,True
+development,1,south,Our summary places this job in the southern district.,12,15,literal,15,False,False
+development,1,south,Our summary places this job in the southern district.,12,15,dictionary,12,False,False
+development,1,south,Our summary places this job in the southern district.,12,15,char_model,12,False,False
+development,1,south,Our summary places this job in the southern district.,12,12,literal,15,False,False
+development,1,south,Our summary places this job in the southern district.,12,12,dictionary,12,False,False
+development,1,south,Our summary places this job in the southern district.,12,12,char_model,12,False,False
+development,1,south,Our summary places this job in the southern district.,12,5,literal,15,True,False
+development,1,south,Our summary places this job in the southern district.,12,5,dictionary,12,True,True
+development,1,south,Our summary places this job in the southern district.,12,5,char_model,12,True,True
+development,1,south,Our summary places this job in the southern district.,12,10,literal,15,True,False
+development,1,south,Our summary places this job in the southern district.,12,10,dictionary,12,True,True
+development,1,south,Our summary places this job in the southern district.,12,10,char_model,12,True,True
+development,1,coast,The dossier places the site in the coastal zone.,5,15,literal,15,False,False
+development,1,coast,The dossier places the site in the coastal zone.,5,15,dictionary,5,False,False
+development,1,coast,The dossier places the site in the coastal zone.,5,15,char_model,5,False,False
+development,1,coast,The dossier places the site in the coastal zone.,5,3,literal,15,True,False
+development,1,coast,The dossier places the site in the coastal zone.,5,3,dictionary,5,True,True
+development,1,coast,The dossier places the site in the coastal zone.,5,3,char_model,5,True,True
+development,1,coast,The dossier places the site in the coastal zone.,5,12,literal,15,True,False
+development,1,coast,The dossier places the site in the coastal zone.,5,12,dictionary,5,True,True
+development,1,coast,The dossier places the site in the coastal zone.,5,12,char_model,5,True,True
+development,1,coast,The dossier places the site in the coastal zone.,5,5,literal,15,False,False
+development,1,coast,The dossier places the site in the coastal zone.,5,5,dictionary,5,False,False
+development,1,coast,The dossier places the site in the coastal zone.,5,5,char_model,5,False,False
+development,1,coast,The signed review locates it in the coastal zone.,5,15,literal,15,False,False
+development,1,coast,The signed review locates it in the coastal zone.,5,15,dictionary,5,False,False
+development,1,coast,The signed review locates it in the coastal zone.,5,15,char_model,5,False,False
+development,1,coast,The signed review locates it in the coastal zone.,5,3,literal,15,True,False
+development,1,coast,The signed review locates it in the coastal zone.,5,3,dictionary,5,True,True
+development,1,coast,The signed review locates it in the coastal zone.,5,3,char_model,5,True,True
+development,1,coast,The signed review locates it in the coastal zone.,5,12,literal,15,True,False
+development,1,coast,The signed review locates it in the coastal zone.,5,12,dictionary,5,True,True
+development,1,coast,The signed review locates it in the coastal zone.,5,12,char_model,5,True,True
+development,1,coast,The signed review locates it in the coastal zone.,5,5,literal,15,False,False
+development,1,coast,The signed review locates it in the coastal zone.,5,5,dictionary,5,False,False
+development,1,coast,The signed review locates it in the coastal zone.,5,5,char_model,5,False,False
+development,1,coast,Our summary places this job in the coastal zone.,5,15,literal,15,False,False
+development,1,coast,Our summary places this job in the coastal zone.,5,15,dictionary,5,False,False
+development,1,coast,Our summary places this job in the coastal zone.,5,15,char_model,5,False,False
+development,1,coast,Our summary places this job in the coastal zone.,5,3,literal,15,True,False
+development,1,coast,Our summary places this job in the coastal zone.,5,3,dictionary,5,True,True
+development,1,coast,Our summary places this job in the coastal zone.,5,3,char_model,5,True,True
+development,1,coast,Our summary places this job in the coastal zone.,5,12,literal,15,True,False
+development,1,coast,Our summary places this job in the coastal zone.,5,12,dictionary,5,True,True
+development,1,coast,Our summary places this job in the coastal zone.,5,12,char_model,5,True,True
+development,1,coast,Our summary places this job in the coastal zone.,5,5,literal,15,False,False
+development,1,coast,Our summary places this job in the coastal zone.,5,5,dictionary,5,False,False
+development,1,coast,Our summary places this job in the coastal zone.,5,5,char_model,5,False,False
+development,1,inland,The dossier places the site in the interior.,10,15,literal,15,False,False
+development,1,inland,The dossier places the site in the interior.,10,15,dictionary,10,False,False
+development,1,inland,The dossier places the site in the interior.,10,15,char_model,10,False,False
+development,1,inland,The dossier places the site in the interior.,10,3,literal,15,True,False
+development,1,inland,The dossier places the site in the interior.,10,3,dictionary,10,True,True
+development,1,inland,The dossier places the site in the interior.,10,3,char_model,10,True,True
+development,1,inland,The dossier places the site in the interior.,10,12,literal,15,True,False
+development,1,inland,The dossier places the site in the interior.,10,12,dictionary,10,True,True
+development,1,inland,The dossier places the site in the interior.,10,12,char_model,10,True,True
+development,1,inland,The dossier places the site in the interior.,10,10,literal,15,False,False
+development,1,inland,The dossier places the site in the interior.,10,10,dictionary,10,False,False
+development,1,inland,The dossier places the site in the interior.,10,10,char_model,10,False,False
+development,1,inland,The signed review locates it in the interior.,10,15,literal,15,False,False
+development,1,inland,The signed review locates it in the interior.,10,15,dictionary,10,False,False
+development,1,inland,The signed review locates it in the interior.,10,15,char_model,10,False,False
+development,1,inland,The signed review locates it in the interior.,10,3,literal,15,True,False
+development,1,inland,The signed review locates it in the interior.,10,3,dictionary,10,True,True
+development,1,inland,The signed review locates it in the interior.,10,3,char_model,10,True,True
+development,1,inland,The signed review locates it in the interior.,10,12,literal,15,True,False
+development,1,inland,The signed review locates it in the interior.,10,12,dictionary,10,True,True
+development,1,inland,The signed review locates it in the interior.,10,12,char_model,10,True,True
+development,1,inland,The signed review locates it in the interior.,10,10,literal,15,False,False
+development,1,inland,The signed review locates it in the interior.,10,10,dictionary,10,False,False
+development,1,inland,The signed review locates it in the interior.,10,10,char_model,10,False,False
+development,1,inland,Our summary places this job in the interior.,10,15,literal,15,False,False
+development,1,inland,Our summary places this job in the interior.,10,15,dictionary,10,False,False
+development,1,inland,Our summary places this job in the interior.,10,15,char_model,10,False,False
+development,1,inland,Our summary places this job in the interior.,10,3,literal,15,True,False
+development,1,inland,Our summary places this job in the interior.,10,3,dictionary,10,True,True
+development,1,inland,Our summary places this job in the interior.,10,3,char_model,10,True,True
+development,1,inland,Our summary places this job in the interior.,10,12,literal,15,True,False
+development,1,inland,Our summary places this job in the interior.,10,12,dictionary,10,True,True
+development,1,inland,Our summary places this job in the interior.,10,12,char_model,10,True,True
+development,1,inland,Our summary places this job in the interior.,10,10,literal,15,False,False
+development,1,inland,Our summary places this job in the interior.,10,10,dictionary,10,False,False
+development,1,inland,Our summary places this job in the interior.,10,10,char_model,10,False,False
+development,1,neutral,The receipt was signed.,15,15,literal,15,False,False
+development,1,neutral,The receipt was signed.,15,15,dictionary,15,False,False
+development,1,neutral,The receipt was signed.,15,15,char_model,15,False,False
+development,1,neutral,The receipt was signed.,15,3,literal,15,False,False
+development,1,neutral,The receipt was signed.,15,3,dictionary,15,False,False
+development,1,neutral,The receipt was signed.,15,3,char_model,15,False,False
+development,1,neutral,The receipt was signed.,15,12,literal,15,False,False
+development,1,neutral,The receipt was signed.,15,12,dictionary,15,False,False
+development,1,neutral,The receipt was signed.,15,12,char_model,15,False,False
+development,1,neutral,The receipt was signed.,15,5,literal,15,False,False
+development,1,neutral,The receipt was signed.,15,5,dictionary,15,False,False
+development,1,neutral,The receipt was signed.,15,5,char_model,15,False,False
+development,1,neutral,The receipt was signed.,15,10,literal,15,False,False
+development,1,neutral,The receipt was signed.,15,10,dictionary,15,False,False
+development,1,neutral,The receipt was signed.,15,10,char_model,15,False,False
+development,1,Alder,The record names Alder.,1,15,literal,1,True,True
+development,1,Alder,The record names Alder.,1,15,dictionary,1,True,True
+development,1,Alder,The record names Alder.,1,15,char_model,1,True,True
+development,1,Alder,The record names Alder.,1,3,literal,1,True,True
+development,1,Alder,The record names Alder.,1,3,dictionary,1,True,True
+development,1,Alder,The record names Alder.,1,3,char_model,1,True,True
+development,1,Alder,The record names Alder.,1,5,literal,1,True,True
+development,1,Alder,The record names Alder.,1,5,dictionary,1,True,True
+development,1,Alder,The record names Alder.,1,5,char_model,1,True,True
+development,1,Birch,The record names Birch.,2,15,literal,2,True,True
+development,1,Birch,The record names Birch.,2,15,dictionary,2,True,True
+development,1,Birch,The record names Birch.,2,15,char_model,2,True,True
+development,1,Birch,The record names Birch.,2,3,literal,2,True,True
+development,1,Birch,The record names Birch.,2,3,dictionary,2,True,True
+development,1,Birch,The record names Birch.,2,3,char_model,2,True,True
+development,1,Birch,The record names Birch.,2,10,literal,2,True,True
+development,1,Birch,The record names Birch.,2,10,dictionary,2,True,True
+development,1,Birch,The record names Birch.,2,10,char_model,2,True,True
+development,1,Cedar,The record names Cedar.,4,15,literal,4,True,True
+development,1,Cedar,The record names Cedar.,4,15,dictionary,4,True,True
+development,1,Cedar,The record names Cedar.,4,15,char_model,4,True,True
+development,1,Cedar,The record names Cedar.,4,12,literal,4,True,True
+development,1,Cedar,The record names Cedar.,4,12,dictionary,4,True,True
+development,1,Cedar,The record names Cedar.,4,12,char_model,4,True,True
+development,1,Cedar,The record names Cedar.,4,5,literal,4,True,True
+development,1,Cedar,The record names Cedar.,4,5,dictionary,4,True,True
+development,1,Cedar,The record names Cedar.,4,5,char_model,4,True,True
+development,1,Dune,The record names Dune.,8,15,literal,8,True,True
+development,1,Dune,The record names Dune.,8,15,dictionary,8,True,True
+development,1,Dune,The record names Dune.,8,15,char_model,8,True,True
+development,1,Dune,The record names Dune.,8,12,literal,8,True,True
+development,1,Dune,The record names Dune.,8,12,dictionary,8,True,True
+development,1,Dune,The record names Dune.,8,12,char_model,8,True,True
+development,1,Dune,The record names Dune.,8,10,literal,8,True,True
+development,1,Dune,The record names Dune.,8,10,dictionary,8,True,True
+development,1,Dune,The record names Dune.,8,10,char_model,8,True,True
+development,1,uncertain,It is near their usual office.,,15,literal,15,,False
+development,1,uncertain,It is near their usual office.,,15,dictionary,,,
+development,1,uncertain,It is near their usual office.,,15,char_model,5,,False
+development,1,uncertain,It is near their usual office.,,3,literal,15,,False
+development,1,uncertain,It is near their usual office.,,3,dictionary,,,
+development,1,uncertain,It is near their usual office.,,3,char_model,5,,True
+development,1,uncertain,It is near their usual office.,,12,literal,15,,False
+development,1,uncertain,It is near their usual office.,,12,dictionary,,,
+development,1,uncertain,It is near their usual office.,,12,char_model,5,,True
+development,1,uncertain,It is near their usual office.,,5,literal,15,,False
+development,1,uncertain,It is near their usual office.,,5,dictionary,,,
+development,1,uncertain,It is near their usual office.,,5,char_model,5,,False
+development,1,uncertain,It is near their usual office.,,10,literal,15,,False
+development,1,uncertain,It is near their usual office.,,10,dictionary,,,
+development,1,uncertain,It is near their usual office.,,10,char_model,5,,
+validation,2,north,The dossier places the site on the polar side.,3,15,literal,15,False,False
+validation,2,north,The dossier places the site on the polar side.,3,15,dictionary,15,False,False
+validation,2,north,The dossier places the site on the polar side.,3,15,char_model,5,False,False
+validation,2,north,The dossier places the site on the polar side.,3,3,literal,15,False,False
+validation,2,north,The dossier places the site on the polar side.,3,3,dictionary,15,False,False
+validation,2,north,The dossier places the site on the polar side.,3,3,char_model,5,False,True
+validation,2,north,The dossier places the site on the polar side.,3,5,literal,15,True,False
+validation,2,north,The dossier places the site on the polar side.,3,5,dictionary,15,True,False
+validation,2,north,The dossier places the site on the polar side.,3,5,char_model,5,True,False
+validation,2,north,The dossier places the site on the polar side.,3,10,literal,15,True,False
+validation,2,north,The dossier places the site on the polar side.,3,10,dictionary,15,True,False
+validation,2,north,The dossier places the site on the polar side.,3,10,char_model,5,True,
+validation,2,north,The signed review locates it on the polar side.,3,15,literal,15,False,False
+validation,2,north,The signed review locates it on the polar side.,3,15,dictionary,15,False,False
+validation,2,north,The signed review locates it on the polar side.,3,15,char_model,5,False,False
+validation,2,north,The signed review locates it on the polar side.,3,3,literal,15,False,False
+validation,2,north,The signed review locates it on the polar side.,3,3,dictionary,15,False,False
+validation,2,north,The signed review locates it on the polar side.,3,3,char_model,5,False,True
+validation,2,north,The signed review locates it on the polar side.,3,5,literal,15,True,False
+validation,2,north,The signed review locates it on the polar side.,3,5,dictionary,15,True,False
+validation,2,north,The signed review locates it on the polar side.,3,5,char_model,5,True,False
+validation,2,north,The signed review locates it on the polar side.,3,10,literal,15,True,False
+validation,2,north,The signed review locates it on the polar side.,3,10,dictionary,15,True,False
+validation,2,north,The signed review locates it on the polar side.,3,10,char_model,5,True,
+validation,2,north,Our summary places this job on the polar side.,3,15,literal,15,False,False
+validation,2,north,Our summary places this job on the polar side.,3,15,dictionary,15,False,False
+validation,2,north,Our summary places this job on the polar side.,3,15,char_model,5,False,False
+validation,2,north,Our summary places this job on the polar side.,3,3,literal,15,False,False
+validation,2,north,Our summary places this job on the polar side.,3,3,dictionary,15,False,False
+validation,2,north,Our summary places this job on the polar side.,3,3,char_model,5,False,True
+validation,2,north,Our summary places this job on the polar side.,3,5,literal,15,True,False
+validation,2,north,Our summary places this job on the polar side.,3,5,dictionary,15,True,False
+validation,2,north,Our summary places this job on the polar side.,3,5,char_model,5,True,False
+validation,2,north,Our summary places this job on the polar side.,3,10,literal,15,True,False
+validation,2,north,Our summary places this job on the polar side.,3,10,dictionary,15,True,False
+validation,2,north,Our summary places this job on the polar side.,3,10,char_model,5,True,
+validation,2,south,The dossier places the site on the equatorward side.,12,15,literal,15,False,False
+validation,2,south,The dossier places the site on the equatorward side.,12,15,dictionary,15,False,False
+validation,2,south,The dossier places the site on the equatorward side.,12,15,char_model,5,False,False
+validation,2,south,The dossier places the site on the equatorward side.,12,12,literal,15,False,False
+validation,2,south,The dossier places the site on the equatorward side.,12,12,dictionary,15,False,False
+validation,2,south,The dossier places the site on the equatorward side.,12,12,char_model,5,False,True
+validation,2,south,The dossier places the site on the equatorward side.,12,5,literal,15,True,False
+validation,2,south,The dossier places the site on the equatorward side.,12,5,dictionary,15,True,False
+validation,2,south,The dossier places the site on the equatorward side.,12,5,char_model,5,True,False
+validation,2,south,The dossier places the site on the equatorward side.,12,10,literal,15,True,False
+validation,2,south,The dossier places the site on the equatorward side.,12,10,dictionary,15,True,False
+validation,2,south,The dossier places the site on the equatorward side.,12,10,char_model,5,True,
+validation,2,south,The signed review locates it on the equatorward side.,12,15,literal,15,False,False
+validation,2,south,The signed review locates it on the equatorward side.,12,15,dictionary,15,False,False
+validation,2,south,The signed review locates it on the equatorward side.,12,15,char_model,5,False,False
+validation,2,south,The signed review locates it on the equatorward side.,12,12,literal,15,False,False
+validation,2,south,The signed review locates it on the equatorward side.,12,12,dictionary,15,False,False
+validation,2,south,The signed review locates it on the equatorward side.,12,12,char_model,5,False,True
+validation,2,south,The signed review locates it on the equatorward side.,12,5,literal,15,True,False
+validation,2,south,The signed review locates it on the equatorward side.,12,5,dictionary,15,True,False
+validation,2,south,The signed review locates it on the equatorward side.,12,5,char_model,5,True,False
+validation,2,south,The signed review locates it on the equatorward side.,12,10,literal,15,True,False
+validation,2,south,The signed review locates it on the equatorward side.,12,10,dictionary,15,True,False
+validation,2,south,The signed review locates it on the equatorward side.,12,10,char_model,5,True,
+validation,2,south,Our summary places this job on the equatorward side.,12,15,literal,15,False,False
+validation,2,south,Our summary places this job on the equatorward side.,12,15,dictionary,15,False,False
+validation,2,south,Our summary places this job on the equatorward side.,12,15,char_model,5,False,False
+validation,2,south,Our summary places this job on the equatorward side.,12,12,literal,15,False,False
+validation,2,south,Our summary places this job on the equatorward side.,12,12,dictionary,15,False,False
+validation,2,south,Our summary places this job on the equatorward side.,12,12,char_model,5,False,True
+validation,2,south,Our summary places this job on the equatorward side.,12,5,literal,15,True,False
+validation,2,south,Our summary places this job on the equatorward side.,12,5,dictionary,15,True,False
+validation,2,south,Our summary places this job on the equatorward side.,12,5,char_model,5,True,False
+validation,2,south,Our summary places this job on the equatorward side.,12,10,literal,15,True,False
+validation,2,south,Our summary places this job on the equatorward side.,12,10,dictionary,15,True,False
+validation,2,south,Our summary places this job on the equatorward side.,12,10,char_model,5,True,
+validation,2,coast,The dossier places the site along the shoreline.,5,15,literal,15,False,False
+validation,2,coast,The dossier places the site along the shoreline.,5,15,dictionary,5,False,False
+validation,2,coast,The dossier places the site along the shoreline.,5,15,char_model,10,False,False
+validation,2,coast,The dossier places the site along the shoreline.,5,3,literal,15,True,False
+validation,2,coast,The dossier places the site along the shoreline.,5,3,dictionary,5,True,True
+validation,2,coast,The dossier places the site along the shoreline.,5,3,char_model,10,True,True
+validation,2,coast,The dossier places the site along the shoreline.,5,12,literal,15,True,False
+validation,2,coast,The dossier places the site along the shoreline.,5,12,dictionary,5,True,True
+validation,2,coast,The dossier places the site along the shoreline.,5,12,char_model,10,True,True
+validation,2,coast,The dossier places the site along the shoreline.,5,5,literal,15,False,False
+validation,2,coast,The dossier places the site along the shoreline.,5,5,dictionary,5,False,False
+validation,2,coast,The dossier places the site along the shoreline.,5,5,char_model,10,False,
+validation,2,coast,The signed review locates it along the shoreline.,5,15,literal,15,False,False
+validation,2,coast,The signed review locates it along the shoreline.,5,15,dictionary,5,False,False
+validation,2,coast,The signed review locates it along the shoreline.,5,15,char_model,10,False,False
+validation,2,coast,The signed review locates it along the shoreline.,5,3,literal,15,True,False
+validation,2,coast,The signed review locates it along the shoreline.,5,3,dictionary,5,True,True
+validation,2,coast,The signed review locates it along the shoreline.,5,3,char_model,10,True,True
+validation,2,coast,The signed review locates it along the shoreline.,5,12,literal,15,True,False
+validation,2,coast,The signed review locates it along the shoreline.,5,12,dictionary,5,True,True
+validation,2,coast,The signed review locates it along the shoreline.,5,12,char_model,10,True,True
+validation,2,coast,The signed review locates it along the shoreline.,5,5,literal,15,False,False
+validation,2,coast,The signed review locates it along the shoreline.,5,5,dictionary,5,False,False
+validation,2,coast,The signed review locates it along the shoreline.,5,5,char_model,10,False,
+validation,2,coast,Our summary places this job along the shoreline.,5,15,literal,15,False,False
+validation,2,coast,Our summary places this job along the shoreline.,5,15,dictionary,5,False,False
+validation,2,coast,Our summary places this job along the shoreline.,5,15,char_model,10,False,False
+validation,2,coast,Our summary places this job along the shoreline.,5,3,literal,15,True,False
+validation,2,coast,Our summary places this job along the shoreline.,5,3,dictionary,5,True,True
+validation,2,coast,Our summary places this job along the shoreline.,5,3,char_model,10,True,True
+validation,2,coast,Our summary places this job along the shoreline.,5,12,literal,15,True,False
+validation,2,coast,Our summary places this job along the shoreline.,5,12,dictionary,5,True,True
+validation,2,coast,Our summary places this job along the shoreline.,5,12,char_model,10,True,True
+validation,2,coast,Our summary places this job along the shoreline.,5,5,literal,15,False,False
+validation,2,coast,Our summary places this job along the shoreline.,5,5,dictionary,5,False,False
+validation,2,coast,Our summary places this job along the shoreline.,5,5,char_model,10,False,
+validation,2,inland,The dossier places the site away from the shoreline.,10,15,literal,15,False,False
+validation,2,inland,The dossier places the site away from the shoreline.,10,15,dictionary,10,False,False
+validation,2,inland,The dossier places the site away from the shoreline.,10,15,char_model,10,False,False
+validation,2,inland,The dossier places the site away from the shoreline.,10,3,literal,15,True,False
+validation,2,inland,The dossier places the site away from the shoreline.,10,3,dictionary,10,True,True
+validation,2,inland,The dossier places the site away from the shoreline.,10,3,char_model,10,True,True
+validation,2,inland,The dossier places the site away from the shoreline.,10,12,literal,15,True,False
+validation,2,inland,The dossier places the site away from the shoreline.,10,12,dictionary,10,True,True
+validation,2,inland,The dossier places the site away from the shoreline.,10,12,char_model,10,True,True
+validation,2,inland,The dossier places the site away from the shoreline.,10,10,literal,15,False,False
+validation,2,inland,The dossier places the site away from the shoreline.,10,10,dictionary,10,False,False
+validation,2,inland,The dossier places the site away from the shoreline.,10,10,char_model,10,False,False
+validation,2,inland,The signed review locates it away from the shoreline.,10,15,literal,15,False,False
+validation,2,inland,The signed review locates it away from the shoreline.,10,15,dictionary,10,False,False
+validation,2,inland,The signed review locates it away from the shoreline.,10,15,char_model,10,False,False
+validation,2,inland,The signed review locates it away from the shoreline.,10,3,literal,15,True,False
+validation,2,inland,The signed review locates it away from the shoreline.,10,3,dictionary,10,True,True
+validation,2,inland,The signed review locates it away from the shoreline.,10,3,char_model,10,True,True
+validation,2,inland,The signed review locates it away from the shoreline.,10,12,literal,15,True,False
+validation,2,inland,The signed review locates it away from the shoreline.,10,12,dictionary,10,True,True
+validation,2,inland,The signed review locates it away from the shoreline.,10,12,char_model,10,True,True
+validation,2,inland,The signed review locates it away from the shoreline.,10,10,literal,15,False,False
+validation,2,inland,The signed review locates it away from the shoreline.,10,10,dictionary,10,False,False
+validation,2,inland,The signed review locates it away from the shoreline.,10,10,char_model,10,False,False
+validation,2,inland,Our summary places this job away from the shoreline.,10,15,literal,15,False,False
+validation,2,inland,Our summary places this job away from the shoreline.,10,15,dictionary,10,False,False
+validation,2,inland,Our summary places this job away from the shoreline.,10,15,char_model,10,False,False
+validation,2,inland,Our summary places this job away from the shoreline.,10,3,literal,15,True,False
+validation,2,inland,Our summary places this job away from the shoreline.,10,3,dictionary,10,True,True
+validation,2,inland,Our summary places this job away from the shoreline.,10,3,char_model,10,True,True
+validation,2,inland,Our summary places this job away from the shoreline.,10,12,literal,15,True,False
+validation,2,inland,Our summary places this job away from the shoreline.,10,12,dictionary,10,True,True
+validation,2,inland,Our summary places this job away from the shoreline.,10,12,char_model,10,True,True
+validation,2,inland,Our summary places this job away from the shoreline.,10,10,literal,15,False,False
+validation,2,inland,Our summary places this job away from the shoreline.,10,10,dictionary,10,False,False
+validation,2,inland,Our summary places this job away from the shoreline.,10,10,char_model,10,False,False
+validation,2,neutral,The map key lists north and south.,15,15,literal,15,False,False
+validation,2,neutral,The map key lists north and south.,15,15,dictionary,15,False,False
+validation,2,neutral,The map key lists north and south.,15,15,char_model,12,False,False
+validation,2,neutral,The map key lists north and south.,15,3,literal,15,False,False
+validation,2,neutral,The map key lists north and south.,15,3,dictionary,15,False,False
+validation,2,neutral,The map key lists north and south.,15,3,char_model,12,False,
+validation,2,neutral,The map key lists north and south.,15,12,literal,15,False,False
+validation,2,neutral,The map key lists north and south.,15,12,dictionary,15,False,False
+validation,2,neutral,The map key lists north and south.,15,12,char_model,12,False,False
+validation,2,neutral,The map key lists north and south.,15,5,literal,15,False,False
+validation,2,neutral,The map key lists north and south.,15,5,dictionary,15,False,False
+validation,2,neutral,The map key lists north and south.,15,5,char_model,12,False,True
+validation,2,neutral,The map key lists north and south.,15,10,literal,15,False,False
+validation,2,neutral,The map key lists north and south.,15,10,dictionary,15,False,False
+validation,2,neutral,The map key lists north and south.,15,10,char_model,12,False,True
+validation,2,Alder,The appointment is at Alder.,1,15,literal,1,True,True
+validation,2,Alder,The appointment is at Alder.,1,15,dictionary,1,True,True
+validation,2,Alder,The appointment is at Alder.,1,15,char_model,10,True,False
+validation,2,Alder,The appointment is at Alder.,1,3,literal,1,True,True
+validation,2,Alder,The appointment is at Alder.,1,3,dictionary,1,True,True
+validation,2,Alder,The appointment is at Alder.,1,3,char_model,10,True,True
+validation,2,Alder,The appointment is at Alder.,1,5,literal,1,True,True
+validation,2,Alder,The appointment is at Alder.,1,5,dictionary,1,True,True
+validation,2,Alder,The appointment is at Alder.,1,5,char_model,10,True,
+validation,2,Birch,The appointment is at Birch.,2,15,literal,2,True,True
+validation,2,Birch,The appointment is at Birch.,2,15,dictionary,2,True,True
+validation,2,Birch,The appointment is at Birch.,2,15,char_model,10,True,False
+validation,2,Birch,The appointment is at Birch.,2,3,literal,2,True,True
+validation,2,Birch,The appointment is at Birch.,2,3,dictionary,2,True,True
+validation,2,Birch,The appointment is at Birch.,2,3,char_model,10,True,True
+validation,2,Birch,The appointment is at Birch.,2,10,literal,2,True,True
+validation,2,Birch,The appointment is at Birch.,2,10,dictionary,2,True,True
+validation,2,Birch,The appointment is at Birch.,2,10,char_model,10,True,False
+validation,2,Cedar,The appointment is at Cedar.,4,15,literal,4,True,True
+validation,2,Cedar,The appointment is at Cedar.,4,15,dictionary,4,True,True
+validation,2,Cedar,The appointment is at Cedar.,4,15,char_model,10,True,False
+validation,2,Cedar,The appointment is at Cedar.,4,12,literal,4,True,True
+validation,2,Cedar,The appointment is at Cedar.,4,12,dictionary,4,True,True
+validation,2,Cedar,The appointment is at Cedar.,4,12,char_model,10,True,True
+validation,2,Cedar,The appointment is at Cedar.,4,5,literal,4,True,True
+validation,2,Cedar,The appointment is at Cedar.,4,5,dictionary,4,True,True
+validation,2,Cedar,The appointment is at Cedar.,4,5,char_model,10,True,
+validation,2,Dune,The appointment is at Dune.,8,15,literal,8,True,True
+validation,2,Dune,The appointment is at Dune.,8,15,dictionary,8,True,True
+validation,2,Dune,The appointment is at Dune.,8,15,char_model,10,True,False
+validation,2,Dune,The appointment is at Dune.,8,12,literal,8,True,True
+validation,2,Dune,The appointment is at Dune.,8,12,dictionary,8,True,True
+validation,2,Dune,The appointment is at Dune.,8,12,char_model,10,True,True
+validation,2,Dune,The appointment is at Dune.,8,10,literal,8,True,True
+validation,2,Dune,The appointment is at Dune.,8,10,dictionary,8,True,True
+validation,2,Dune,The appointment is at Dune.,8,10,char_model,10,True,False
+validation,2,uncertain,The last site may apply here.,,15,literal,15,,False
+validation,2,uncertain,The last site may apply here.,,15,dictionary,,,
+validation,2,uncertain,The last site may apply here.,,15,char_model,5,,False
+validation,2,uncertain,The last site may apply here.,,3,literal,15,,False
+validation,2,uncertain,The last site may apply here.,,3,dictionary,,,
+validation,2,uncertain,The last site may apply here.,,3,char_model,5,,True
+validation,2,uncertain,The last site may apply here.,,12,literal,15,,False
+validation,2,uncertain,The last site may apply here.,,12,dictionary,,,
+validation,2,uncertain,The last site may apply here.,,12,char_model,5,,True
+validation,2,uncertain,The last site may apply here.,,5,literal,15,,False
+validation,2,uncertain,The last site may apply here.,,5,dictionary,,,
+validation,2,uncertain,The last site may apply here.,,5,char_model,5,,False
+validation,2,uncertain,The last site may apply here.,,10,literal,15,,False
+validation,2,uncertain,The last site may apply here.,,10,dictionary,,,
+validation,2,uncertain,The last site may apply here.,,10,char_model,5,,
+test,3,north,The dossier places the site above the dividing line.,3,15,literal,15,False,False
+test,3,north,The dossier places the site above the dividing line.,3,15,dictionary,15,False,False
+test,3,north,The dossier places the site above the dividing line.,3,15,char_model,10,False,False
+test,3,north,The dossier places the site above the dividing line.,3,3,literal,15,False,False
+test,3,north,The dossier places the site above the dividing line.,3,3,dictionary,15,False,False
+test,3,north,The dossier places the site above the dividing line.,3,3,char_model,10,False,True
+test,3,north,The dossier places the site above the dividing line.,3,5,literal,15,True,False
+test,3,north,The dossier places the site above the dividing line.,3,5,dictionary,15,True,False
+test,3,north,The dossier places the site above the dividing line.,3,5,char_model,10,True,
+test,3,north,The dossier places the site above the dividing line.,3,10,literal,15,True,False
+test,3,north,The dossier places the site above the dividing line.,3,10,dictionary,15,True,False
+test,3,north,The dossier places the site above the dividing line.,3,10,char_model,10,True,False
+test,3,north,The signed review locates it above the dividing line.,3,15,literal,15,False,False
+test,3,north,The signed review locates it above the dividing line.,3,15,dictionary,15,False,False
+test,3,north,The signed review locates it above the dividing line.,3,15,char_model,10,False,False
+test,3,north,The signed review locates it above the dividing line.,3,3,literal,15,False,False
+test,3,north,The signed review locates it above the dividing line.,3,3,dictionary,15,False,False
+test,3,north,The signed review locates it above the dividing line.,3,3,char_model,10,False,True
+test,3,north,The signed review locates it above the dividing line.,3,5,literal,15,True,False
+test,3,north,The signed review locates it above the dividing line.,3,5,dictionary,15,True,False
+test,3,north,The signed review locates it above the dividing line.,3,5,char_model,10,True,
+test,3,north,The signed review locates it above the dividing line.,3,10,literal,15,True,False
+test,3,north,The signed review locates it above the dividing line.,3,10,dictionary,15,True,False
+test,3,north,The signed review locates it above the dividing line.,3,10,char_model,10,True,False
+test,3,north,Our summary places this job above the dividing line.,3,15,literal,15,False,False
+test,3,north,Our summary places this job above the dividing line.,3,15,dictionary,15,False,False
+test,3,north,Our summary places this job above the dividing line.,3,15,char_model,10,False,False
+test,3,north,Our summary places this job above the dividing line.,3,3,literal,15,False,False
+test,3,north,Our summary places this job above the dividing line.,3,3,dictionary,15,False,False
+test,3,north,Our summary places this job above the dividing line.,3,3,char_model,10,False,True
+test,3,north,Our summary places this job above the dividing line.,3,5,literal,15,True,False
+test,3,north,Our summary places this job above the dividing line.,3,5,dictionary,15,True,False
+test,3,north,Our summary places this job above the dividing line.,3,5,char_model,10,True,
+test,3,north,Our summary places this job above the dividing line.,3,10,literal,15,True,False
+test,3,north,Our summary places this job above the dividing line.,3,10,dictionary,15,True,False
+test,3,north,Our summary places this job above the dividing line.,3,10,char_model,10,True,False
+test,3,south,The dossier places the site below the dividing line.,12,15,literal,15,False,False
+test,3,south,The dossier places the site below the dividing line.,12,15,dictionary,15,False,False
+test,3,south,The dossier places the site below the dividing line.,12,15,char_model,10,False,False
+test,3,south,The dossier places the site below the dividing line.,12,12,literal,15,False,False
+test,3,south,The dossier places the site below the dividing line.,12,12,dictionary,15,False,False
+test,3,south,The dossier places the site below the dividing line.,12,12,char_model,10,False,True
+test,3,south,The dossier places the site below the dividing line.,12,5,literal,15,True,False
+test,3,south,The dossier places the site below the dividing line.,12,5,dictionary,15,True,False
+test,3,south,The dossier places the site below the dividing line.,12,5,char_model,10,True,
+test,3,south,The dossier places the site below the dividing line.,12,10,literal,15,True,False
+test,3,south,The dossier places the site below the dividing line.,12,10,dictionary,15,True,False
+test,3,south,The dossier places the site below the dividing line.,12,10,char_model,10,True,False
+test,3,south,The signed review locates it below the dividing line.,12,15,literal,15,False,False
+test,3,south,The signed review locates it below the dividing line.,12,15,dictionary,15,False,False
+test,3,south,The signed review locates it below the dividing line.,12,15,char_model,10,False,False
+test,3,south,The signed review locates it below the dividing line.,12,12,literal,15,False,False
+test,3,south,The signed review locates it below the dividing line.,12,12,dictionary,15,False,False
+test,3,south,The signed review locates it below the dividing line.,12,12,char_model,10,False,True
+test,3,south,The signed review locates it below the dividing line.,12,5,literal,15,True,False
+test,3,south,The signed review locates it below the dividing line.,12,5,dictionary,15,True,False
+test,3,south,The signed review locates it below the dividing line.,12,5,char_model,10,True,
+test,3,south,The signed review locates it below the dividing line.,12,10,literal,15,True,False
+test,3,south,The signed review locates it below the dividing line.,12,10,dictionary,15,True,False
+test,3,south,The signed review locates it below the dividing line.,12,10,char_model,10,True,False
+test,3,south,Our summary places this job below the dividing line.,12,15,literal,15,False,False
+test,3,south,Our summary places this job below the dividing line.,12,15,dictionary,15,False,False
+test,3,south,Our summary places this job below the dividing line.,12,15,char_model,10,False,False
+test,3,south,Our summary places this job below the dividing line.,12,12,literal,15,False,False
+test,3,south,Our summary places this job below the dividing line.,12,12,dictionary,15,False,False
+test,3,south,Our summary places this job below the dividing line.,12,12,char_model,10,False,True
+test,3,south,Our summary places this job below the dividing line.,12,5,literal,15,True,False
+test,3,south,Our summary places this job below the dividing line.,12,5,dictionary,15,True,False
+test,3,south,Our summary places this job below the dividing line.,12,5,char_model,10,True,
+test,3,south,Our summary places this job below the dividing line.,12,10,literal,15,True,False
+test,3,south,Our summary places this job below the dividing line.,12,10,dictionary,15,True,False
+test,3,south,Our summary places this job below the dividing line.,12,10,char_model,10,True,False
+test,3,coast,The dossier places the site at the water-facing edge.,5,15,literal,15,False,False
+test,3,coast,The dossier places the site at the water-facing edge.,5,15,dictionary,15,False,False
+test,3,coast,The dossier places the site at the water-facing edge.,5,15,char_model,10,False,False
+test,3,coast,The dossier places the site at the water-facing edge.,5,3,literal,15,True,False
+test,3,coast,The dossier places the site at the water-facing edge.,5,3,dictionary,15,True,False
+test,3,coast,The dossier places the site at the water-facing edge.,5,3,char_model,10,True,True
+test,3,coast,The dossier places the site at the water-facing edge.,5,12,literal,15,True,False
+test,3,coast,The dossier places the site at the water-facing edge.,5,12,dictionary,15,True,False
+test,3,coast,The dossier places the site at the water-facing edge.,5,12,char_model,10,True,True
+test,3,coast,The dossier places the site at the water-facing edge.,5,5,literal,15,False,False
+test,3,coast,The dossier places the site at the water-facing edge.,5,5,dictionary,15,False,False
+test,3,coast,The dossier places the site at the water-facing edge.,5,5,char_model,10,False,
+test,3,coast,The signed review locates it at the water-facing edge.,5,15,literal,15,False,False
+test,3,coast,The signed review locates it at the water-facing edge.,5,15,dictionary,15,False,False
+test,3,coast,The signed review locates it at the water-facing edge.,5,15,char_model,10,False,False
+test,3,coast,The signed review locates it at the water-facing edge.,5,3,literal,15,True,False
+test,3,coast,The signed review locates it at the water-facing edge.,5,3,dictionary,15,True,False
+test,3,coast,The signed review locates it at the water-facing edge.,5,3,char_model,10,True,True
+test,3,coast,The signed review locates it at the water-facing edge.,5,12,literal,15,True,False
+test,3,coast,The signed review locates it at the water-facing edge.,5,12,dictionary,15,True,False
+test,3,coast,The signed review locates it at the water-facing edge.,5,12,char_model,10,True,True
+test,3,coast,The signed review locates it at the water-facing edge.,5,5,literal,15,False,False
+test,3,coast,The signed review locates it at the water-facing edge.,5,5,dictionary,15,False,False
+test,3,coast,The signed review locates it at the water-facing edge.,5,5,char_model,10,False,
+test,3,coast,Our summary places this job at the water-facing edge.,5,15,literal,15,False,False
+test,3,coast,Our summary places this job at the water-facing edge.,5,15,dictionary,15,False,False
+test,3,coast,Our summary places this job at the water-facing edge.,5,15,char_model,10,False,False
+test,3,coast,Our summary places this job at the water-facing edge.,5,3,literal,15,True,False
+test,3,coast,Our summary places this job at the water-facing edge.,5,3,dictionary,15,True,False
+test,3,coast,Our summary places this job at the water-facing edge.,5,3,char_model,10,True,True
+test,3,coast,Our summary places this job at the water-facing edge.,5,12,literal,15,True,False
+test,3,coast,Our summary places this job at the water-facing edge.,5,12,dictionary,15,True,False
+test,3,coast,Our summary places this job at the water-facing edge.,5,12,char_model,10,True,True
+test,3,coast,Our summary places this job at the water-facing edge.,5,5,literal,15,False,False
+test,3,coast,Our summary places this job at the water-facing edge.,5,5,dictionary,15,False,False
+test,3,coast,Our summary places this job at the water-facing edge.,5,5,char_model,10,False,
+test,3,inland,The dossier places the site on the landlocked side.,10,15,literal,15,False,False
+test,3,inland,The dossier places the site on the landlocked side.,10,15,dictionary,10,False,False
+test,3,inland,The dossier places the site on the landlocked side.,10,15,char_model,5,False,False
+test,3,inland,The dossier places the site on the landlocked side.,10,3,literal,15,True,False
+test,3,inland,The dossier places the site on the landlocked side.,10,3,dictionary,10,True,True
+test,3,inland,The dossier places the site on the landlocked side.,10,3,char_model,5,True,True
+test,3,inland,The dossier places the site on the landlocked side.,10,12,literal,15,True,False
+test,3,inland,The dossier places the site on the landlocked side.,10,12,dictionary,10,True,True
+test,3,inland,The dossier places the site on the landlocked side.,10,12,char_model,5,True,True
+test,3,inland,The dossier places the site on the landlocked side.,10,10,literal,15,False,False
+test,3,inland,The dossier places the site on the landlocked side.,10,10,dictionary,10,False,False
+test,3,inland,The dossier places the site on the landlocked side.,10,10,char_model,5,False,
+test,3,inland,The signed review locates it on the landlocked side.,10,15,literal,15,False,False
+test,3,inland,The signed review locates it on the landlocked side.,10,15,dictionary,10,False,False
+test,3,inland,The signed review locates it on the landlocked side.,10,15,char_model,5,False,False
+test,3,inland,The signed review locates it on the landlocked side.,10,3,literal,15,True,False
+test,3,inland,The signed review locates it on the landlocked side.,10,3,dictionary,10,True,True
+test,3,inland,The signed review locates it on the landlocked side.,10,3,char_model,5,True,True
+test,3,inland,The signed review locates it on the landlocked side.,10,12,literal,15,True,False
+test,3,inland,The signed review locates it on the landlocked side.,10,12,dictionary,10,True,True
+test,3,inland,The signed review locates it on the landlocked side.,10,12,char_model,5,True,True
+test,3,inland,The signed review locates it on the landlocked side.,10,10,literal,15,False,False
+test,3,inland,The signed review locates it on the landlocked side.,10,10,dictionary,10,False,False
+test,3,inland,The signed review locates it on the landlocked side.,10,10,char_model,5,False,
+test,3,inland,Our summary places this job on the landlocked side.,10,15,literal,15,False,False
+test,3,inland,Our summary places this job on the landlocked side.,10,15,dictionary,10,False,False
+test,3,inland,Our summary places this job on the landlocked side.,10,15,char_model,5,False,False
+test,3,inland,Our summary places this job on the landlocked side.,10,3,literal,15,True,False
+test,3,inland,Our summary places this job on the landlocked side.,10,3,dictionary,10,True,True
+test,3,inland,Our summary places this job on the landlocked side.,10,3,char_model,5,True,True
+test,3,inland,Our summary places this job on the landlocked side.,10,12,literal,15,True,False
+test,3,inland,Our summary places this job on the landlocked side.,10,12,dictionary,10,True,True
+test,3,inland,Our summary places this job on the landlocked side.,10,12,char_model,5,True,True
+test,3,inland,Our summary places this job on the landlocked side.,10,10,literal,15,False,False
+test,3,inland,Our summary places this job on the landlocked side.,10,10,dictionary,10,False,False
+test,3,inland,Our summary places this job on the landlocked side.,10,10,char_model,5,False,
+test,3,neutral,Training uses Alder as an example.,15,15,literal,1,False,True
+test,3,neutral,Training uses Alder as an example.,15,15,dictionary,15,False,False
+test,3,neutral,Training uses Alder as an example.,15,15,char_model,10,False,False
+test,3,neutral,Training uses Alder as an example.,15,3,literal,1,False,True
+test,3,neutral,Training uses Alder as an example.,15,3,dictionary,15,False,False
+test,3,neutral,Training uses Alder as an example.,15,3,char_model,10,False,True
+test,3,neutral,Training uses Alder as an example.,15,12,literal,1,False,
+test,3,neutral,Training uses Alder as an example.,15,12,dictionary,15,False,False
+test,3,neutral,Training uses Alder as an example.,15,12,char_model,10,False,True
+test,3,neutral,Training uses Alder as an example.,15,5,literal,1,False,True
+test,3,neutral,Training uses Alder as an example.,15,5,dictionary,15,False,False
+test,3,neutral,Training uses Alder as an example.,15,5,char_model,10,False,
+test,3,neutral,Training uses Alder as an example.,15,10,literal,1,False,
+test,3,neutral,Training uses Alder as an example.,15,10,dictionary,15,False,False
+test,3,neutral,Training uses Alder as an example.,15,10,char_model,10,False,False
+test,3,Alder,This case was allocated to Alder.,1,15,literal,1,True,True
+test,3,Alder,This case was allocated to Alder.,1,15,dictionary,1,True,True
+test,3,Alder,This case was allocated to Alder.,1,15,char_model,5,True,False
+test,3,Alder,This case was allocated to Alder.,1,3,literal,1,True,True
+test,3,Alder,This case was allocated to Alder.,1,3,dictionary,1,True,True
+test,3,Alder,This case was allocated to Alder.,1,3,char_model,5,True,True
+test,3,Alder,This case was allocated to Alder.,1,5,literal,1,True,True
+test,3,Alder,This case was allocated to Alder.,1,5,dictionary,1,True,True
+test,3,Alder,This case was allocated to Alder.,1,5,char_model,5,True,False
+test,3,Birch,This case was allocated to Birch.,2,15,literal,2,True,True
+test,3,Birch,This case was allocated to Birch.,2,15,dictionary,2,True,True
+test,3,Birch,This case was allocated to Birch.,2,15,char_model,5,True,False
+test,3,Birch,This case was allocated to Birch.,2,3,literal,2,True,True
+test,3,Birch,This case was allocated to Birch.,2,3,dictionary,2,True,True
+test,3,Birch,This case was allocated to Birch.,2,3,char_model,5,True,True
+test,3,Birch,This case was allocated to Birch.,2,10,literal,2,True,True
+test,3,Birch,This case was allocated to Birch.,2,10,dictionary,2,True,True
+test,3,Birch,This case was allocated to Birch.,2,10,char_model,5,True,
+test,3,Cedar,This case was allocated to Cedar.,4,15,literal,4,True,True
+test,3,Cedar,This case was allocated to Cedar.,4,15,dictionary,4,True,True
+test,3,Cedar,This case was allocated to Cedar.,4,15,char_model,5,True,False
+test,3,Cedar,This case was allocated to Cedar.,4,12,literal,4,True,True
+test,3,Cedar,This case was allocated to Cedar.,4,12,dictionary,4,True,True
+test,3,Cedar,This case was allocated to Cedar.,4,12,char_model,5,True,True
+test,3,Cedar,This case was allocated to Cedar.,4,5,literal,4,True,True
+test,3,Cedar,This case was allocated to Cedar.,4,5,dictionary,4,True,True
+test,3,Cedar,This case was allocated to Cedar.,4,5,char_model,5,True,False
+test,3,Dune,This case was allocated to Dune.,8,15,literal,8,True,True
+test,3,Dune,This case was allocated to Dune.,8,15,dictionary,8,True,True
+test,3,Dune,This case was allocated to Dune.,8,15,char_model,5,True,False
+test,3,Dune,This case was allocated to Dune.,8,12,literal,8,True,True
+test,3,Dune,This case was allocated to Dune.,8,12,dictionary,8,True,True
+test,3,Dune,This case was allocated to Dune.,8,12,char_model,5,True,True
+test,3,Dune,This case was allocated to Dune.,8,10,literal,8,True,True
+test,3,Dune,This case was allocated to Dune.,8,10,dictionary,8,True,True
+test,3,Dune,This case was allocated to Dune.,8,10,char_model,5,True,
+test,3,uncertain,They said it might be the upper one.,,15,literal,15,,False
+test,3,uncertain,They said it might be the upper one.,,15,dictionary,,,
+test,3,uncertain,They said it might be the upper one.,,15,char_model,5,,False
+test,3,uncertain,They said it might be the upper one.,,3,literal,15,,False
+test,3,uncertain,They said it might be the upper one.,,3,dictionary,,,
+test,3,uncertain,They said it might be the upper one.,,3,char_model,5,,True
+test,3,uncertain,They said it might be the upper one.,,12,literal,15,,False
+test,3,uncertain,They said it might be the upper one.,,12,dictionary,,,
+test,3,uncertain,They said it might be the upper one.,,12,char_model,5,,True
+test,3,uncertain,They said it might be the upper one.,,5,literal,15,,False
+test,3,uncertain,They said it might be the upper one.,,5,dictionary,,,
+test,3,uncertain,They said it might be the upper one.,,5,char_model,5,,False
+test,3,uncertain,They said it might be the upper one.,,10,literal,15,,False
+test,3,uncertain,They said it might be the upper one.,,10,dictionary,,,
+test,3,uncertain,They said it might be the upper one.,,10,char_model,5,,
+test,4,north,The dossier places the site outside the southern district.,3,15,literal,15,False,False
+test,4,north,The dossier places the site outside the southern district.,3,15,dictionary,3,False,False
+test,4,north,The dossier places the site outside the southern district.,3,15,char_model,12,False,False
+test,4,north,The dossier places the site outside the southern district.,3,3,literal,15,False,False
+test,4,north,The dossier places the site outside the southern district.,3,3,dictionary,3,False,False
+test,4,north,The dossier places the site outside the southern district.,3,3,char_model,12,False,
+test,4,north,The dossier places the site outside the southern district.,3,5,literal,15,True,False
+test,4,north,The dossier places the site outside the southern district.,3,5,dictionary,3,True,True
+test,4,north,The dossier places the site outside the southern district.,3,5,char_model,12,True,True
+test,4,north,The dossier places the site outside the southern district.,3,10,literal,15,True,False
+test,4,north,The dossier places the site outside the southern district.,3,10,dictionary,3,True,True
+test,4,north,The dossier places the site outside the southern district.,3,10,char_model,12,True,True
+test,4,north,The signed review locates it outside the southern district.,3,15,literal,15,False,False
+test,4,north,The signed review locates it outside the southern district.,3,15,dictionary,3,False,False
+test,4,north,The signed review locates it outside the southern district.,3,15,char_model,12,False,False
+test,4,north,The signed review locates it outside the southern district.,3,3,literal,15,False,False
+test,4,north,The signed review locates it outside the southern district.,3,3,dictionary,3,False,False
+test,4,north,The signed review locates it outside the southern district.,3,3,char_model,12,False,
+test,4,north,The signed review locates it outside the southern district.,3,5,literal,15,True,False
+test,4,north,The signed review locates it outside the southern district.,3,5,dictionary,3,True,True
+test,4,north,The signed review locates it outside the southern district.,3,5,char_model,12,True,True
+test,4,north,The signed review locates it outside the southern district.,3,10,literal,15,True,False
+test,4,north,The signed review locates it outside the southern district.,3,10,dictionary,3,True,True
+test,4,north,The signed review locates it outside the southern district.,3,10,char_model,12,True,True
+test,4,north,Our summary places this job outside the southern district.,3,15,literal,15,False,False
+test,4,north,Our summary places this job outside the southern district.,3,15,dictionary,3,False,False
+test,4,north,Our summary places this job outside the southern district.,3,15,char_model,12,False,False
+test,4,north,Our summary places this job outside the southern district.,3,3,literal,15,False,False
+test,4,north,Our summary places this job outside the southern district.,3,3,dictionary,3,False,False
+test,4,north,Our summary places this job outside the southern district.,3,3,char_model,12,False,
+test,4,north,Our summary places this job outside the southern district.,3,5,literal,15,True,False
+test,4,north,Our summary places this job outside the southern district.,3,5,dictionary,3,True,True
+test,4,north,Our summary places this job outside the southern district.,3,5,char_model,12,True,True
+test,4,north,Our summary places this job outside the southern district.,3,10,literal,15,True,False
+test,4,north,Our summary places this job outside the southern district.,3,10,dictionary,3,True,True
+test,4,north,Our summary places this job outside the southern district.,3,10,char_model,12,True,True
+test,4,south,The dossier places the site outside the northern district.,12,15,literal,15,False,False
+test,4,south,The dossier places the site outside the northern district.,12,15,dictionary,12,False,False
+test,4,south,The dossier places the site outside the northern district.,12,15,char_model,3,False,False
+test,4,south,The dossier places the site outside the northern district.,12,12,literal,15,False,False
+test,4,south,The dossier places the site outside the northern district.,12,12,dictionary,12,False,False
+test,4,south,The dossier places the site outside the northern district.,12,12,char_model,3,False,
+test,4,south,The dossier places the site outside the northern district.,12,5,literal,15,True,False
+test,4,south,The dossier places the site outside the northern district.,12,5,dictionary,12,True,True
+test,4,south,The dossier places the site outside the northern district.,12,5,char_model,3,True,True
+test,4,south,The dossier places the site outside the northern district.,12,10,literal,15,True,False
+test,4,south,The dossier places the site outside the northern district.,12,10,dictionary,12,True,True
+test,4,south,The dossier places the site outside the northern district.,12,10,char_model,3,True,True
+test,4,south,The signed review locates it outside the northern district.,12,15,literal,15,False,False
+test,4,south,The signed review locates it outside the northern district.,12,15,dictionary,12,False,False
+test,4,south,The signed review locates it outside the northern district.,12,15,char_model,3,False,False
+test,4,south,The signed review locates it outside the northern district.,12,12,literal,15,False,False
+test,4,south,The signed review locates it outside the northern district.,12,12,dictionary,12,False,False
+test,4,south,The signed review locates it outside the northern district.,12,12,char_model,3,False,
+test,4,south,The signed review locates it outside the northern district.,12,5,literal,15,True,False
+test,4,south,The signed review locates it outside the northern district.,12,5,dictionary,12,True,True
+test,4,south,The signed review locates it outside the northern district.,12,5,char_model,3,True,True
+test,4,south,The signed review locates it outside the northern district.,12,10,literal,15,True,False
+test,4,south,The signed review locates it outside the northern district.,12,10,dictionary,12,True,True
+test,4,south,The signed review locates it outside the northern district.,12,10,char_model,3,True,True
+test,4,south,Our summary places this job outside the northern district.,12,15,literal,15,False,False
+test,4,south,Our summary places this job outside the northern district.,12,15,dictionary,12,False,False
+test,4,south,Our summary places this job outside the northern district.,12,15,char_model,3,False,False
+test,4,south,Our summary places this job outside the northern district.,12,12,literal,15,False,False
+test,4,south,Our summary places this job outside the northern district.,12,12,dictionary,12,False,False
+test,4,south,Our summary places this job outside the northern district.,12,12,char_model,3,False,
+test,4,south,Our summary places this job outside the northern district.,12,5,literal,15,True,False
+test,4,south,Our summary places this job outside the northern district.,12,5,dictionary,12,True,True
+test,4,south,Our summary places this job outside the northern district.,12,5,char_model,3,True,True
+test,4,south,Our summary places this job outside the northern district.,12,10,literal,15,True,False
+test,4,south,Our summary places this job outside the northern district.,12,10,dictionary,12,True,True
+test,4,south,Our summary places this job outside the northern district.,12,10,char_model,3,True,True
+test,4,coast,The dossier places the site outside the inland area.,5,15,literal,15,False,False
+test,4,coast,The dossier places the site outside the inland area.,5,15,dictionary,5,False,False
+test,4,coast,The dossier places the site outside the inland area.,5,15,char_model,10,False,False
+test,4,coast,The dossier places the site outside the inland area.,5,3,literal,15,True,False
+test,4,coast,The dossier places the site outside the inland area.,5,3,dictionary,5,True,True
+test,4,coast,The dossier places the site outside the inland area.,5,3,char_model,10,True,True
+test,4,coast,The dossier places the site outside the inland area.,5,12,literal,15,True,False
+test,4,coast,The dossier places the site outside the inland area.,5,12,dictionary,5,True,True
+test,4,coast,The dossier places the site outside the inland area.,5,12,char_model,10,True,True
+test,4,coast,The dossier places the site outside the inland area.,5,5,literal,15,False,False
+test,4,coast,The dossier places the site outside the inland area.,5,5,dictionary,5,False,False
+test,4,coast,The dossier places the site outside the inland area.,5,5,char_model,10,False,
+test,4,coast,The signed review locates it outside the inland area.,5,15,literal,15,False,False
+test,4,coast,The signed review locates it outside the inland area.,5,15,dictionary,5,False,False
+test,4,coast,The signed review locates it outside the inland area.,5,15,char_model,10,False,False
+test,4,coast,The signed review locates it outside the inland area.,5,3,literal,15,True,False
+test,4,coast,The signed review locates it outside the inland area.,5,3,dictionary,5,True,True
+test,4,coast,The signed review locates it outside the inland area.,5,3,char_model,10,True,True
+test,4,coast,The signed review locates it outside the inland area.,5,12,literal,15,True,False
+test,4,coast,The signed review locates it outside the inland area.,5,12,dictionary,5,True,True
+test,4,coast,The signed review locates it outside the inland area.,5,12,char_model,10,True,True
+test,4,coast,The signed review locates it outside the inland area.,5,5,literal,15,False,False
+test,4,coast,The signed review locates it outside the inland area.,5,5,dictionary,5,False,False
+test,4,coast,The signed review locates it outside the inland area.,5,5,char_model,10,False,
+test,4,coast,Our summary places this job outside the inland area.,5,15,literal,15,False,False
+test,4,coast,Our summary places this job outside the inland area.,5,15,dictionary,5,False,False
+test,4,coast,Our summary places this job outside the inland area.,5,15,char_model,10,False,False
+test,4,coast,Our summary places this job outside the inland area.,5,3,literal,15,True,False
+test,4,coast,Our summary places this job outside the inland area.,5,3,dictionary,5,True,True
+test,4,coast,Our summary places this job outside the inland area.,5,3,char_model,10,True,True
+test,4,coast,Our summary places this job outside the inland area.,5,12,literal,15,True,False
+test,4,coast,Our summary places this job outside the inland area.,5,12,dictionary,5,True,True
+test,4,coast,Our summary places this job outside the inland area.,5,12,char_model,10,True,True
+test,4,coast,Our summary places this job outside the inland area.,5,5,literal,15,False,False
+test,4,coast,Our summary places this job outside the inland area.,5,5,dictionary,5,False,False
+test,4,coast,Our summary places this job outside the inland area.,5,5,char_model,10,False,
+test,4,inland,The dossier places the site outside the coastal area.,10,15,literal,15,False,False
+test,4,inland,The dossier places the site outside the coastal area.,10,15,dictionary,10,False,False
+test,4,inland,The dossier places the site outside the coastal area.,10,15,char_model,5,False,False
+test,4,inland,The dossier places the site outside the coastal area.,10,3,literal,15,True,False
+test,4,inland,The dossier places the site outside the coastal area.,10,3,dictionary,10,True,True
+test,4,inland,The dossier places the site outside the coastal area.,10,3,char_model,5,True,True
+test,4,inland,The dossier places the site outside the coastal area.,10,12,literal,15,True,False
+test,4,inland,The dossier places the site outside the coastal area.,10,12,dictionary,10,True,True
+test,4,inland,The dossier places the site outside the coastal area.,10,12,char_model,5,True,True
+test,4,inland,The dossier places the site outside the coastal area.,10,10,literal,15,False,False
+test,4,inland,The dossier places the site outside the coastal area.,10,10,dictionary,10,False,False
+test,4,inland,The dossier places the site outside the coastal area.,10,10,char_model,5,False,
+test,4,inland,The signed review locates it outside the coastal area.,10,15,literal,15,False,False
+test,4,inland,The signed review locates it outside the coastal area.,10,15,dictionary,10,False,False
+test,4,inland,The signed review locates it outside the coastal area.,10,15,char_model,5,False,False
+test,4,inland,The signed review locates it outside the coastal area.,10,3,literal,15,True,False
+test,4,inland,The signed review locates it outside the coastal area.,10,3,dictionary,10,True,True
+test,4,inland,The signed review locates it outside the coastal area.,10,3,char_model,5,True,True
+test,4,inland,The signed review locates it outside the coastal area.,10,12,literal,15,True,False
+test,4,inland,The signed review locates it outside the coastal area.,10,12,dictionary,10,True,True
+test,4,inland,The signed review locates it outside the coastal area.,10,12,char_model,5,True,True
+test,4,inland,The signed review locates it outside the coastal area.,10,10,literal,15,False,False
+test,4,inland,The signed review locates it outside the coastal area.,10,10,dictionary,10,False,False
+test,4,inland,The signed review locates it outside the coastal area.,10,10,char_model,5,False,
+test,4,inland,Our summary places this job outside the coastal area.,10,15,literal,15,False,False
+test,4,inland,Our summary places this job outside the coastal area.,10,15,dictionary,10,False,False
+test,4,inland,Our summary places this job outside the coastal area.,10,15,char_model,5,False,False
+test,4,inland,Our summary places this job outside the coastal area.,10,3,literal,15,True,False
+test,4,inland,Our summary places this job outside the coastal area.,10,3,dictionary,10,True,True
+test,4,inland,Our summary places this job outside the coastal area.,10,3,char_model,5,True,True
+test,4,inland,Our summary places this job outside the coastal area.,10,12,literal,15,True,False
+test,4,inland,Our summary places this job outside the coastal area.,10,12,dictionary,10,True,True
+test,4,inland,Our summary places this job outside the coastal area.,10,12,char_model,5,True,True
+test,4,inland,Our summary places this job outside the coastal area.,10,10,literal,15,False,False
+test,4,inland,Our summary places this job outside the coastal area.,10,10,dictionary,10,False,False
+test,4,inland,Our summary places this job outside the coastal area.,10,10,char_model,5,False,
+test,4,neutral,The coast label belongs to a different case.,15,15,literal,15,False,False
+test,4,neutral,The coast label belongs to a different case.,15,15,dictionary,15,False,False
+test,4,neutral,The coast label belongs to a different case.,15,15,char_model,5,False,False
+test,4,neutral,The coast label belongs to a different case.,15,3,literal,15,False,False
+test,4,neutral,The coast label belongs to a different case.,15,3,dictionary,15,False,False
+test,4,neutral,The coast label belongs to a different case.,15,3,char_model,5,False,True
+test,4,neutral,The coast label belongs to a different case.,15,12,literal,15,False,False
+test,4,neutral,The coast label belongs to a different case.,15,12,dictionary,15,False,False
+test,4,neutral,The coast label belongs to a different case.,15,12,char_model,5,False,True
+test,4,neutral,The coast label belongs to a different case.,15,5,literal,15,False,False
+test,4,neutral,The coast label belongs to a different case.,15,5,dictionary,15,False,False
+test,4,neutral,The coast label belongs to a different case.,15,5,char_model,5,False,False
+test,4,neutral,The coast label belongs to a different case.,15,10,literal,15,False,False
+test,4,neutral,The coast label belongs to a different case.,15,10,dictionary,15,False,False
+test,4,neutral,The coast label belongs to a different case.,15,10,char_model,5,False,
+test,4,Alder,The memo identifies Alder.,1,15,literal,1,True,True
+test,4,Alder,The memo identifies Alder.,1,15,dictionary,1,True,True
+test,4,Alder,The memo identifies Alder.,1,15,char_model,1,True,True
+test,4,Alder,The memo identifies Alder.,1,3,literal,1,True,True
+test,4,Alder,The memo identifies Alder.,1,3,dictionary,1,True,True
+test,4,Alder,The memo identifies Alder.,1,3,char_model,1,True,True
+test,4,Alder,The memo identifies Alder.,1,5,literal,1,True,True
+test,4,Alder,The memo identifies Alder.,1,5,dictionary,1,True,True
+test,4,Alder,The memo identifies Alder.,1,5,char_model,1,True,True
+test,4,Birch,The memo identifies Birch.,2,15,literal,2,True,True
+test,4,Birch,The memo identifies Birch.,2,15,dictionary,2,True,True
+test,4,Birch,The memo identifies Birch.,2,15,char_model,2,True,True
+test,4,Birch,The memo identifies Birch.,2,3,literal,2,True,True
+test,4,Birch,The memo identifies Birch.,2,3,dictionary,2,True,True
+test,4,Birch,The memo identifies Birch.,2,3,char_model,2,True,True
+test,4,Birch,The memo identifies Birch.,2,10,literal,2,True,True
+test,4,Birch,The memo identifies Birch.,2,10,dictionary,2,True,True
+test,4,Birch,The memo identifies Birch.,2,10,char_model,2,True,True
+test,4,Cedar,The memo identifies Cedar.,4,15,literal,4,True,True
+test,4,Cedar,The memo identifies Cedar.,4,15,dictionary,4,True,True
+test,4,Cedar,The memo identifies Cedar.,4,15,char_model,4,True,True
+test,4,Cedar,The memo identifies Cedar.,4,12,literal,4,True,True
+test,4,Cedar,The memo identifies Cedar.,4,12,dictionary,4,True,True
+test,4,Cedar,The memo identifies Cedar.,4,12,char_model,4,True,True
+test,4,Cedar,The memo identifies Cedar.,4,5,literal,4,True,True
+test,4,Cedar,The memo identifies Cedar.,4,5,dictionary,4,True,True
+test,4,Cedar,The memo identifies Cedar.,4,5,char_model,4,True,True
+test,4,Dune,The memo identifies Dune.,8,15,literal,8,True,True
+test,4,Dune,The memo identifies Dune.,8,15,dictionary,8,True,True
+test,4,Dune,The memo identifies Dune.,8,15,char_model,8,True,True
+test,4,Dune,The memo identifies Dune.,8,12,literal,8,True,True
+test,4,Dune,The memo identifies Dune.,8,12,dictionary,8,True,True
+test,4,Dune,The memo identifies Dune.,8,12,char_model,8,True,True
+test,4,Dune,The memo identifies Dune.,8,10,literal,8,True,True
+test,4,Dune,The memo identifies Dune.,8,10,dictionary,8,True,True
+test,4,Dune,The memo identifies Dune.,8,10,char_model,8,True,True
+test,4,uncertain,It is near their usual office.,,15,literal,15,,False
+test,4,uncertain,It is near their usual office.,,15,dictionary,,,
+test,4,uncertain,It is near their usual office.,,15,char_model,5,,False
+test,4,uncertain,It is near their usual office.,,3,literal,15,,False
+test,4,uncertain,It is near their usual office.,,3,dictionary,,,
+test,4,uncertain,It is near their usual office.,,3,char_model,5,,True
+test,4,uncertain,It is near their usual office.,,12,literal,15,,False
+test,4,uncertain,It is near their usual office.,,12,dictionary,,,
+test,4,uncertain,It is near their usual office.,,12,char_model,5,,True
+test,4,uncertain,It is near their usual office.,,5,literal,15,,False
+test,4,uncertain,It is near their usual office.,,5,dictionary,,,
+test,4,uncertain,It is near their usual office.,,5,char_model,5,,False
+test,4,uncertain,It is near their usual office.,,10,literal,15,,False
+test,4,uncertain,It is near their usual office.,,10,dictionary,,,
+test,4,uncertain,It is near their usual office.,,10,char_model,5,,
+test,5,north,The dossier places the site in the upper half.,3,15,literal,15,False,False
+test,5,north,The dossier places the site in the upper half.,3,15,dictionary,15,False,False
+test,5,north,The dossier places the site in the upper half.,3,15,char_model,10,False,False
+test,5,north,The dossier places the site in the upper half.,3,3,literal,15,False,False
+test,5,north,The dossier places the site in the upper half.,3,3,dictionary,15,False,False
+test,5,north,The dossier places the site in the upper half.,3,3,char_model,10,False,True
+test,5,north,The dossier places the site in the upper half.,3,5,literal,15,True,False
+test,5,north,The dossier places the site in the upper half.,3,5,dictionary,15,True,False
+test,5,north,The dossier places the site in the upper half.,3,5,char_model,10,True,
+test,5,north,The dossier places the site in the upper half.,3,10,literal,15,True,False
+test,5,north,The dossier places the site in the upper half.,3,10,dictionary,15,True,False
+test,5,north,The dossier places the site in the upper half.,3,10,char_model,10,True,False
+test,5,north,The signed review locates it in the upper half.,3,15,literal,15,False,False
+test,5,north,The signed review locates it in the upper half.,3,15,dictionary,15,False,False
+test,5,north,The signed review locates it in the upper half.,3,15,char_model,10,False,False
+test,5,north,The signed review locates it in the upper half.,3,3,literal,15,False,False
+test,5,north,The signed review locates it in the upper half.,3,3,dictionary,15,False,False
+test,5,north,The signed review locates it in the upper half.,3,3,char_model,10,False,True
+test,5,north,The signed review locates it in the upper half.,3,5,literal,15,True,False
+test,5,north,The signed review locates it in the upper half.,3,5,dictionary,15,True,False
+test,5,north,The signed review locates it in the upper half.,3,5,char_model,10,True,
+test,5,north,The signed review locates it in the upper half.,3,10,literal,15,True,False
+test,5,north,The signed review locates it in the upper half.,3,10,dictionary,15,True,False
+test,5,north,The signed review locates it in the upper half.,3,10,char_model,10,True,False
+test,5,north,Our summary places this job in the upper half.,3,15,literal,15,False,False
+test,5,north,Our summary places this job in the upper half.,3,15,dictionary,15,False,False
+test,5,north,Our summary places this job in the upper half.,3,15,char_model,10,False,False
+test,5,north,Our summary places this job in the upper half.,3,3,literal,15,False,False
+test,5,north,Our summary places this job in the upper half.,3,3,dictionary,15,False,False
+test,5,north,Our summary places this job in the upper half.,3,3,char_model,10,False,True
+test,5,north,Our summary places this job in the upper half.,3,5,literal,15,True,False
+test,5,north,Our summary places this job in the upper half.,3,5,dictionary,15,True,False
+test,5,north,Our summary places this job in the upper half.,3,5,char_model,10,True,
+test,5,north,Our summary places this job in the upper half.,3,10,literal,15,True,False
+test,5,north,Our summary places this job in the upper half.,3,10,dictionary,15,True,False
+test,5,north,Our summary places this job in the upper half.,3,10,char_model,10,True,False
+test,5,south,The dossier places the site in the lower half.,12,15,literal,15,False,False
+test,5,south,The dossier places the site in the lower half.,12,15,dictionary,15,False,False
+test,5,south,The dossier places the site in the lower half.,12,15,char_model,10,False,False
+test,5,south,The dossier places the site in the lower half.,12,12,literal,15,False,False
+test,5,south,The dossier places the site in the lower half.,12,12,dictionary,15,False,False
+test,5,south,The dossier places the site in the lower half.,12,12,char_model,10,False,True
+test,5,south,The dossier places the site in the lower half.,12,5,literal,15,True,False
+test,5,south,The dossier places the site in the lower half.,12,5,dictionary,15,True,False
+test,5,south,The dossier places the site in the lower half.,12,5,char_model,10,True,
+test,5,south,The dossier places the site in the lower half.,12,10,literal,15,True,False
+test,5,south,The dossier places the site in the lower half.,12,10,dictionary,15,True,False
+test,5,south,The dossier places the site in the lower half.,12,10,char_model,10,True,False
+test,5,south,The signed review locates it in the lower half.,12,15,literal,15,False,False
+test,5,south,The signed review locates it in the lower half.,12,15,dictionary,15,False,False
+test,5,south,The signed review locates it in the lower half.,12,15,char_model,10,False,False
+test,5,south,The signed review locates it in the lower half.,12,12,literal,15,False,False
+test,5,south,The signed review locates it in the lower half.,12,12,dictionary,15,False,False
+test,5,south,The signed review locates it in the lower half.,12,12,char_model,10,False,True
+test,5,south,The signed review locates it in the lower half.,12,5,literal,15,True,False
+test,5,south,The signed review locates it in the lower half.,12,5,dictionary,15,True,False
+test,5,south,The signed review locates it in the lower half.,12,5,char_model,10,True,
+test,5,south,The signed review locates it in the lower half.,12,10,literal,15,True,False
+test,5,south,The signed review locates it in the lower half.,12,10,dictionary,15,True,False
+test,5,south,The signed review locates it in the lower half.,12,10,char_model,10,True,False
+test,5,south,Our summary places this job in the lower half.,12,15,literal,15,False,False
+test,5,south,Our summary places this job in the lower half.,12,15,dictionary,15,False,False
+test,5,south,Our summary places this job in the lower half.,12,15,char_model,10,False,False
+test,5,south,Our summary places this job in the lower half.,12,12,literal,15,False,False
+test,5,south,Our summary places this job in the lower half.,12,12,dictionary,15,False,False
+test,5,south,Our summary places this job in the lower half.,12,12,char_model,10,False,True
+test,5,south,Our summary places this job in the lower half.,12,5,literal,15,True,False
+test,5,south,Our summary places this job in the lower half.,12,5,dictionary,15,True,False
+test,5,south,Our summary places this job in the lower half.,12,5,char_model,10,True,
+test,5,south,Our summary places this job in the lower half.,12,10,literal,15,True,False
+test,5,south,Our summary places this job in the lower half.,12,10,dictionary,15,True,False
+test,5,south,Our summary places this job in the lower half.,12,10,char_model,10,True,False
+test,5,coast,The dossier places the site by the sea.,5,15,literal,15,False,False
+test,5,coast,The dossier places the site by the sea.,5,15,dictionary,5,False,False
+test,5,coast,The dossier places the site by the sea.,5,15,char_model,10,False,False
+test,5,coast,The dossier places the site by the sea.,5,3,literal,15,True,False
+test,5,coast,The dossier places the site by the sea.,5,3,dictionary,5,True,True
+test,5,coast,The dossier places the site by the sea.,5,3,char_model,10,True,True
+test,5,coast,The dossier places the site by the sea.,5,12,literal,15,True,False
+test,5,coast,The dossier places the site by the sea.,5,12,dictionary,5,True,True
+test,5,coast,The dossier places the site by the sea.,5,12,char_model,10,True,True
+test,5,coast,The dossier places the site by the sea.,5,5,literal,15,False,False
+test,5,coast,The dossier places the site by the sea.,5,5,dictionary,5,False,False
+test,5,coast,The dossier places the site by the sea.,5,5,char_model,10,False,
+test,5,coast,The signed review locates it by the sea.,5,15,literal,15,False,False
+test,5,coast,The signed review locates it by the sea.,5,15,dictionary,5,False,False
+test,5,coast,The signed review locates it by the sea.,5,15,char_model,10,False,False
+test,5,coast,The signed review locates it by the sea.,5,3,literal,15,True,False
+test,5,coast,The signed review locates it by the sea.,5,3,dictionary,5,True,True
+test,5,coast,The signed review locates it by the sea.,5,3,char_model,10,True,True
+test,5,coast,The signed review locates it by the sea.,5,12,literal,15,True,False
+test,5,coast,The signed review locates it by the sea.,5,12,dictionary,5,True,True
+test,5,coast,The signed review locates it by the sea.,5,12,char_model,10,True,True
+test,5,coast,The signed review locates it by the sea.,5,5,literal,15,False,False
+test,5,coast,The signed review locates it by the sea.,5,5,dictionary,5,False,False
+test,5,coast,The signed review locates it by the sea.,5,5,char_model,10,False,
+test,5,coast,Our summary places this job by the sea.,5,15,literal,15,False,False
+test,5,coast,Our summary places this job by the sea.,5,15,dictionary,5,False,False
+test,5,coast,Our summary places this job by the sea.,5,15,char_model,10,False,False
+test,5,coast,Our summary places this job by the sea.,5,3,literal,15,True,False
+test,5,coast,Our summary places this job by the sea.,5,3,dictionary,5,True,True
+test,5,coast,Our summary places this job by the sea.,5,3,char_model,10,True,True
+test,5,coast,Our summary places this job by the sea.,5,12,literal,15,True,False
+test,5,coast,Our summary places this job by the sea.,5,12,dictionary,5,True,True
+test,5,coast,Our summary places this job by the sea.,5,12,char_model,10,True,True
+test,5,coast,Our summary places this job by the sea.,5,5,literal,15,False,False
+test,5,coast,Our summary places this job by the sea.,5,5,dictionary,5,False,False
+test,5,coast,Our summary places this job by the sea.,5,5,char_model,10,False,
+test,5,inland,The dossier places the site far from the sea.,10,15,literal,15,False,False
+test,5,inland,The dossier places the site far from the sea.,10,15,dictionary,10,False,False
+test,5,inland,The dossier places the site far from the sea.,10,15,char_model,10,False,False
+test,5,inland,The dossier places the site far from the sea.,10,3,literal,15,True,False
+test,5,inland,The dossier places the site far from the sea.,10,3,dictionary,10,True,True
+test,5,inland,The dossier places the site far from the sea.,10,3,char_model,10,True,True
+test,5,inland,The dossier places the site far from the sea.,10,12,literal,15,True,False
+test,5,inland,The dossier places the site far from the sea.,10,12,dictionary,10,True,True
+test,5,inland,The dossier places the site far from the sea.,10,12,char_model,10,True,True
+test,5,inland,The dossier places the site far from the sea.,10,10,literal,15,False,False
+test,5,inland,The dossier places the site far from the sea.,10,10,dictionary,10,False,False
+test,5,inland,The dossier places the site far from the sea.,10,10,char_model,10,False,False
+test,5,inland,The signed review locates it far from the sea.,10,15,literal,15,False,False
+test,5,inland,The signed review locates it far from the sea.,10,15,dictionary,10,False,False
+test,5,inland,The signed review locates it far from the sea.,10,15,char_model,10,False,False
+test,5,inland,The signed review locates it far from the sea.,10,3,literal,15,True,False
+test,5,inland,The signed review locates it far from the sea.,10,3,dictionary,10,True,True
+test,5,inland,The signed review locates it far from the sea.,10,3,char_model,10,True,True
+test,5,inland,The signed review locates it far from the sea.,10,12,literal,15,True,False
+test,5,inland,The signed review locates it far from the sea.,10,12,dictionary,10,True,True
+test,5,inland,The signed review locates it far from the sea.,10,12,char_model,10,True,True
+test,5,inland,The signed review locates it far from the sea.,10,10,literal,15,False,False
+test,5,inland,The signed review locates it far from the sea.,10,10,dictionary,10,False,False
+test,5,inland,The signed review locates it far from the sea.,10,10,char_model,10,False,False
+test,5,inland,Our summary places this job far from the sea.,10,15,literal,15,False,False
+test,5,inland,Our summary places this job far from the sea.,10,15,dictionary,10,False,False
+test,5,inland,Our summary places this job far from the sea.,10,15,char_model,10,False,False
+test,5,inland,Our summary places this job far from the sea.,10,3,literal,15,True,False
+test,5,inland,Our summary places this job far from the sea.,10,3,dictionary,10,True,True
+test,5,inland,Our summary places this job far from the sea.,10,3,char_model,10,True,True
+test,5,inland,Our summary places this job far from the sea.,10,12,literal,15,True,False
+test,5,inland,Our summary places this job far from the sea.,10,12,dictionary,10,True,True
+test,5,inland,Our summary places this job far from the sea.,10,12,char_model,10,True,True
+test,5,inland,Our summary places this job far from the sea.,10,10,literal,15,False,False
+test,5,inland,Our summary places this job far from the sea.,10,10,dictionary,10,False,False
+test,5,inland,Our summary places this job far from the sea.,10,10,char_model,10,False,False
+test,5,neutral,Birch is quoted from the blank template.,15,15,literal,2,False,True
+test,5,neutral,Birch is quoted from the blank template.,15,15,dictionary,15,False,False
+test,5,neutral,Birch is quoted from the blank template.,15,15,char_model,10,False,False
+test,5,neutral,Birch is quoted from the blank template.,15,3,literal,2,False,True
+test,5,neutral,Birch is quoted from the blank template.,15,3,dictionary,15,False,False
+test,5,neutral,Birch is quoted from the blank template.,15,3,char_model,10,False,True
+test,5,neutral,Birch is quoted from the blank template.,15,12,literal,2,False,
+test,5,neutral,Birch is quoted from the blank template.,15,12,dictionary,15,False,False
+test,5,neutral,Birch is quoted from the blank template.,15,12,char_model,10,False,True
+test,5,neutral,Birch is quoted from the blank template.,15,5,literal,2,False,
+test,5,neutral,Birch is quoted from the blank template.,15,5,dictionary,15,False,False
+test,5,neutral,Birch is quoted from the blank template.,15,5,char_model,10,False,
+test,5,neutral,Birch is quoted from the blank template.,15,10,literal,2,False,True
+test,5,neutral,Birch is quoted from the blank template.,15,10,dictionary,15,False,False
+test,5,neutral,Birch is quoted from the blank template.,15,10,char_model,10,False,False
+test,5,Alder,Its assigned site is Alder.,1,15,literal,1,True,True
+test,5,Alder,Its assigned site is Alder.,1,15,dictionary,1,True,True
+test,5,Alder,Its assigned site is Alder.,1,15,char_model,1,True,True
+test,5,Alder,Its assigned site is Alder.,1,3,literal,1,True,True
+test,5,Alder,Its assigned site is Alder.,1,3,dictionary,1,True,True
+test,5,Alder,Its assigned site is Alder.,1,3,char_model,1,True,True
+test,5,Alder,Its assigned site is Alder.,1,5,literal,1,True,True
+test,5,Alder,Its assigned site is Alder.,1,5,dictionary,1,True,True
+test,5,Alder,Its assigned site is Alder.,1,5,char_model,1,True,True
+test,5,Birch,Its assigned site is Birch.,2,15,literal,2,True,True
+test,5,Birch,Its assigned site is Birch.,2,15,dictionary,2,True,True
+test,5,Birch,Its assigned site is Birch.,2,15,char_model,2,True,True
+test,5,Birch,Its assigned site is Birch.,2,3,literal,2,True,True
+test,5,Birch,Its assigned site is Birch.,2,3,dictionary,2,True,True
+test,5,Birch,Its assigned site is Birch.,2,3,char_model,2,True,True
+test,5,Birch,Its assigned site is Birch.,2,10,literal,2,True,True
+test,5,Birch,Its assigned site is Birch.,2,10,dictionary,2,True,True
+test,5,Birch,Its assigned site is Birch.,2,10,char_model,2,True,True
+test,5,Cedar,Its assigned site is Cedar.,4,15,literal,4,True,True
+test,5,Cedar,Its assigned site is Cedar.,4,15,dictionary,4,True,True
+test,5,Cedar,Its assigned site is Cedar.,4,15,char_model,4,True,True
+test,5,Cedar,Its assigned site is Cedar.,4,12,literal,4,True,True
+test,5,Cedar,Its assigned site is Cedar.,4,12,dictionary,4,True,True
+test,5,Cedar,Its assigned site is Cedar.,4,12,char_model,4,True,True
+test,5,Cedar,Its assigned site is Cedar.,4,5,literal,4,True,True
+test,5,Cedar,Its assigned site is Cedar.,4,5,dictionary,4,True,True
+test,5,Cedar,Its assigned site is Cedar.,4,5,char_model,4,True,True
+test,5,Dune,Its assigned site is Dune.,8,15,literal,8,True,True
+test,5,Dune,Its assigned site is Dune.,8,15,dictionary,8,True,True
+test,5,Dune,Its assigned site is Dune.,8,15,char_model,10,True,False
+test,5,Dune,Its assigned site is Dune.,8,12,literal,8,True,True
+test,5,Dune,Its assigned site is Dune.,8,12,dictionary,8,True,True
+test,5,Dune,Its assigned site is Dune.,8,12,char_model,10,True,True
+test,5,Dune,Its assigned site is Dune.,8,10,literal,8,True,True
+test,5,Dune,Its assigned site is Dune.,8,10,dictionary,8,True,True
+test,5,Dune,Its assigned site is Dune.,8,10,char_model,10,True,False
+test,5,uncertain,The last site may apply here.,,15,literal,15,,False
+test,5,uncertain,The last site may apply here.,,15,dictionary,,,
+test,5,uncertain,The last site may apply here.,,15,char_model,5,,False
+test,5,uncertain,The last site may apply here.,,3,literal,15,,False
+test,5,uncertain,The last site may apply here.,,3,dictionary,,,
+test,5,uncertain,The last site may apply here.,,3,char_model,5,,True
+test,5,uncertain,The last site may apply here.,,12,literal,15,,False
+test,5,uncertain,The last site may apply here.,,12,dictionary,,,
+test,5,uncertain,The last site may apply here.,,12,char_model,5,,True
+test,5,uncertain,The last site may apply here.,,5,literal,15,,False
+test,5,uncertain,The last site may apply here.,,5,dictionary,,,
+test,5,uncertain,The last site may apply here.,,5,char_model,5,,False
+test,5,uncertain,The last site may apply here.,,10,literal,15,,False
+test,5,uncertain,The last site may apply here.,,10,dictionary,,,
+test,5,uncertain,The last site may apply here.,,10,char_model,5,,
